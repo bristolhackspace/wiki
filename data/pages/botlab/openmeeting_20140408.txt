@@ -1,0 +1,76 @@
+====== Hackspace members' meeting 8 April 2014 ======
+
+===== Agenda =====
+  - Process for electing new committee at the AGM
+  - What to do with donated electronics
+  - Use of new space in G10/G11
+  - Any proposals for equipment to purchase
+
+
+===== Attendees =====
+  * Russell D
+  * Patrick N
+  * David W (minute-taker)
+  * Kai B
+  * John D
+  * Pam
+  * Tom G
+  * David H
+  * Toby S
+  * Tarim
+
+===== Topics discussed =====
+
+  * **AGM:** DW clarified situation with AGM timing
+  * **Electing a new committee at the AGM:** 
+    * DW and DH clarified the existing system ?TODO - no aversion to increasing size of committee
+    * Concerns: system that we have favours incumbents, need to give new people a chance
+    * TG: people need to understand that elections are happening and people can join the committee
+    * DH: Issue with committee size - how do we regulate this?
+    * Issue of new people and regulating sizes are different issues
+    * Do we open up voting to the whole membership or just the people at the AGM?
+    * TG: have an "associate committee" role in parallel with full committee members - give people an easy route into seeing how the committtee works - PN: perhaps treasurer needs an associate
+    * 2 posts will be available at next AGM
+    * => publicise better in advance of next AGM?
+    * DH: Hackspace has many members who take part in running of the space/organisation without being on the committee - role of the committee is solely a way of formalising the decision-making process - => associates not really needed as yet, except for admin! => before the AGM, committee to discuss and publicise admin roles
+    * Committee also has a role for ensuring things are done - e.g. random emails from 3rd parties - committee has a role in filtering this
+    * DH: perhaps there is a role for associates in taking a greater part in e.g. responding to incoming requests - "if anybody *wants* to have access to this list..." as an opt-in
+    * Returning to discussion of mechanism: use counting of votes for and against, and choose people with strongest majority? but what if we have multiple unanimous votes?; people apply to specific roles? DH: important to be clear to everyone at the start of the meeting what the system is, e.g. there will be 5 committee members at the end of the meeting and votes count accordingly? 
+    * PN: have a set period to apply for election; if we have too many candidates *then* we decide how to deal with it?
+    * TG: start by saying you have to be at the AGM to vote? With some proxy system to allow for input from people who are unable to attend?
+    * TG: if we have too many candidates, get them all to cast lots for places? Only problem is if there is 1 person noone wants to work with... 
+    * General consensus on TG's proposal!
+  *  Destination of donated electronic components (bequeathed to Marcus Valentine who donated them to the Hackspace)
+    * TG: has been sorting them - proposes sorting them, picking out a quantity that we could conceiveably use (of the useful ones) and sending others to other hackspaces
+    * RD: improvement: before distributing them, make the unwanted ones available to hackspace members if they want for >=1week
+    * RD: split up big boxes of resistors first into smaller quantities? but that's a lot of work. Or just keep them in stock if they aren't going to go off? 
+    * First job is to stock-take so we know what we have, 
+    * Problems with sending to other spaces: don't know if they want them, and have to pay the postage? (get people to come and pick up their own stuff!)
+    * TG: happy to sort the ICs, wants 1% resistors kept, not going to do it all! RD will help - make a spreadsheet with all items
+    * 3 piles: unsorted, sorted-to-be-kept, surplus (open to membership/other hackspaces/anybody)
+    * Jay points out other hackspaces are just getting started and would appreciate any donations - invite them to get in touch!
+  * Donations more generally
+    * TG: what do we do with other donations? do we accept them, what happens? 
+    * RD: what if equipment with value turns up? Would be a shame if it was just dumped...
+    * Have just instituted [http://bristol.hackspace.org.uk/wiki/doku.php/3boxsystem 3 bin system] - gives people 3 weeks to express interest. Is 3 weeks long enough? Esp. if we get a big donation that fills the bins? 
+    * PN: still in beta, will see how it works and adjust accordingly!
+    * TG: what if companies tried to use us as a dumping ground? ?TODO
+  * Use of extra space in G10/G11
+    * DH: storage boxes for members - e.g. Really Useful Boxes (strongly suggest that people use those, because they stack) - or just *require* people to use specific box
+    * Jay: could get a discount if we buy in bulk - get people to express interest on mailing list
+    * Shelving - should we spend money on it? Tarim: has sorted it - we have the frame parts, all we need is wood for the shelves... 
+    * Buy in a stack of boxes and let members pay for it? Matt V has already bought in some boxes - but maybe invest in a good system for the future. Filing cabinets as a better use of space? Not necessarily for members' personal storage
+    * Size of boxes: e.g. RUB 35l & half that height - ~£5 and ~£10
+    * => DH to put a proposal to the mailing list
+  * Additional equipment required?
+    * (storage - see above)
+    * RD: better chairs! something padded, more consistent... Pam: could get office chairs cheaply from auctions (BCVA business auctions in Ashton - also other things)? Diversity is good... "Contemporary and eclectic"! 
+    * Not enough time to get a committee decision between listing and auction - but someone could get approval to spend up to a certain amount on a certain number of chairs - RD to put a proposal to the list once he has an idea of the figures involved
+    * TG: surface-mount soldering equipment? We have a hot-air rework station and Ian's toaster oven, but something a bit more professional? Nudge Ian to provide instructions on use of his oven?
+    * DH: hand tools? good screwdrivers etc., tinsnips
+    * DH: ask the mailing list! DW to organise
+    * RD: MarkForged carbon-fibre 3d printer?! $5000, shipping in "second half of 2014"? Tarim: suggest to Knowle West Media Centre as they have big funding...
+  * BV Open Studios
+    * Tarim: Happening at end of May - Weekend of 31 May/1 June
+    * Good opportunity to show our work off
+    * PN: make some flier to distribute? Barney made some for the Maker Faire

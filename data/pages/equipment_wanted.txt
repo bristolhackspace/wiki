@@ -1,0 +1,112 @@
+One of the benefits of being a hackspace member is that you can use group equipment!
+
+See [[Our tools and facilities]] to see what we already have - it might be that what you want already exists, but isn't immediately visible.
+
+== Buying new equipment ==
+
+If you need some equipment that we don't already have, please follow this process:
+
+  * Add it to the Wanted list in the next section. More expensive things are more likely to be purchased if interested users pledge some of their own money towards it, so please offer something if you can. Don't forget VAT and P&P!
+  * Post to the mailing list announcing your proposal to see if others are interested, in which case they should add their names and (optional) pledge.
+  * If it doesn't cost much (or much more than is pledged) go ahead. Otherwise check with our treasurer David Wyatt that we can afford it. See the [[ botlab:expenses claims ]] page for how to actually claim the money back.
+  * If there's enough pledged to buy it outright then you can do it directly; put any change in the Hackspace petty cash and not go through the Botlab account.  However it makes it easier for us to show that Botlab is a not-for-profit organisation and present proper accounts if it goes through the Botlab account.
+  * If it's bought, don't forget to add it to the [[Our tools and facilities]] page!
+
+
+===== running and completed pledges =====
+
+  * [[smt soldering microscope]] - bought
+  * [[casting equipment]] - to buy
+
+
+
+===== Wanted Things =====
+
+Some speculative ideas were mooted on the [[Arduino workshop profit shopping list]]. David W also carried out a [[http://doodle.com/8npxgzhzp33i4f6z#table|Doodle poll]] with the following results from 9 respondents as of 27/6/2012 (the question was "Please select whether you think you would actively use the following if the Hackspace had it"):
+
+  * Woodworking lathe: 4
+  * CNC mill: 2
+  * Manual mill: 2
+  * Manual lathe: 2
+  * Microwave: 2
+  * Kettle: 2 
+  * Multimeter with frequency & capacitance: 2
+  * Fridge: 1
+  * Screwdrivers: 1
+  * Screenprinting equipment: 1
+  * Coffee machine: 1
+  * (working) knitting machines: 0
+  * Welder: 0
+
+
+=== Screwdriver set ===
+This was taken from the old Wanted list on the home page. Is it a request that we have *more* screwdriver sets, or a holdover from a dark past when we didn't have a screwdriver set at all?
+
+Matt says do we really need more screw drivers? It seems to me we have loads!
+
+=== Multimeter with frequency and capacitance ranges (e.g. Vichy VC99) ===
+
+The Vichy VC99 on Deal Extreme (may be out of stock):
+
+http://www.dealextreme.com/p/3-0-lcd-handheld-digital-multimeter-voltage-current-resistance-temperature-2-aaa-37082
+
+Lady Ada's recommended pocket multimeter (with frequency and capacitance):
+
+http://www.dealextreme.com/p/1-7-lcd-handheld-digital-multimeter-voltage-current-resistance-1-6f22-42317?item=1
+
+* Matt puts in £10 for one
+
+=== Curve tracer ===
+Taken from the old Wanted list on the equipment page
+
+=== LCR bridge ===
+Taken from the old Wanted list on the equipment page
+
+The Vichy 4070 on Good Luck Buy:
+
+http://www.goodluckbuy.com/dm4070-3-1-2-digital-lcr-meter-up-to-20h-2000uf-20mohm.html
+
+And some notes on the meter from  the Embedded hardware Guy:
+
+http://embeddederic.blogspot.co.uk/2012/04/vichy-dm4070-lc-meter-teardown.html
+
+=== Pulse generator ===
+Taken from the old Wanted list on the equipment page
+
+=== Logic analyser ===
+Taken from the old Wanted list on the equipment page
+
+Marcus says: I have an HP 16702A logic analyser main frame the 'space can have. The problem is it doesn't have any modules. To be of use you would need something like the HP 16752A logic analyser module. These kind of things are available on ebay for around one hundred quid, or possibly someone could blag one from Agilent or some of the test equipment hire companies. 
+
+=== Spectrum analyser ===
+Taken from the old Wanted list on the equipment page
+
+Matt says, do we need this now we have the new scope? The new scope does some amount of spectrum analysis.
+
+=== Hot air rework iron ===
+For SMT soldering, a hot air iron is very useful. It's like a mini heat gun, very handy for getting chips off boards, and localised heating.
+Ones on ebay are around £40-£45 http://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p5197.m570.l1313&_nkw=atten+858D&_sacat=See-All-Categories
+
+  * Ginjaian puts in £5
+
+=== Digital calipers ===
+
+These can be had for £10 from [[http://www.maplin.co.uk/electronic-digital-calliper-32198|Maplin]] until 10/7/2012...
+Note that some models of digital caliper can be wired up to a digital interface and read out on (say) an Arduino: 
+ * [[http://www.compendiumarcana.com/caliper/]] 
+ * [[http://robocombo.blogspot.co.uk/2010/12/using-tis-launchpad-to-interface.html]]
+
+=== Safety equipment ===
+We should obtain some safety equipment e.g. glasses - any other requests? (Perhaps hearing protectors, dust masks)
+
+[[http://www.hindleys.com/health-and-safety/]] has some cheap lab/workshop safety supplies
+
+=== AVRISP Mk2 programmer ===
+Matt would find this useful for TPI programming. Matt puts in a 10 pound pledge.
+
+Paul has an official Atmel USB one which is £30.
+
+Cheap clones are available - apparently $3 from Hong Kong. Russ has a clone one and a DIY HV programmer, and Dave has a clone.
+
+Garth recommends http://www.atmel.com/tools/AVRJTAGICEMKII.aspx which is expensive ($299) but has a JTAG/DebugWire interface to do debugging and step through code. An alternative is the (apparently legally reverse engineered) http://www.ebay.co.uk/itm/USB-ISP-JTAGICE-MKII-CN-Metal-Version-AVR32-Studio-Emulator-Metal-Box-Anodise-/290653874708?pt=UK_BOI_Electrical_Components_Supplies_ET&hash=item43ac522a14 (£59).
+

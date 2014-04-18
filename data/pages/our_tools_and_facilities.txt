@@ -1,0 +1,54 @@
+===== Tools in the Hackspace =====
+(or available to us)
+
+Page links in red in the table below mean we haven't written any information about this thing on the Wiki yet. If you can contribute, please do so!
+
+Equipment pages should indicate where the thing is to be found, who to ask for induction training if it's something that could hurt the user (or that could be easily damaged), a list of inducted people who might be asked for help by new users, and any pertinent safety tips.
+
+For extra points, specifications of the thing (what size of work it can do, etc), links to manuals/tutorials, and so on can be included for reference!
+
+^ Thing ^ Needs Induction? ^ Owner/Maintainer ^ Location ^
+|[[nics-table-saw|Table saw]]|YES|Nic Marshall|G10 (messy room)|
+|[[vices|Wood and Metal Vices]]|no|Hackspace|G10 (messy room)|
+|[[nics-disk-sander|Disk sander]]|YES|Nic Marshall|G10 (messy room)|
+|[[pillar-drill|Pillar drill]]|YES|Hackspace|G10 (messy room)|
+|[[bench-grinder|Bench grinder]]|YES|Hackspace|G10 (messy room)|
+|[[belt-sander|Belt sander]]|YES|Hackspace|G10 (messy room)|
+|[[bandsaw|Bandsaw]]|YES|Hackspace|G10 (messy room)|
+|[[woodturning_lathe|Wood lathe]]|YES|Anton Bowers|G10 (messy room)|
+|[[laser_cutter|Epilog Laser Cutter]]|YES|Lauren Simms|G10 (messy room)|
+|[[myford_super_7_lathe|Metal lathe]]|YES|Matthew Venn|G10 (messy room)|
+|[[cnc_milling_machine|CNC Router]]|YES|Matthew Venn|G10 (messy room)|
+|[[cnc_mill|CNC Mill]]|YES|Matthew Venn|G10 (messy room)|
+|[[sewing-machine|Sewing machine]]|YES|Hackspace|G11 (main room)|
+|[[hp-designjet-500|HP DesignJet 500]]|YES|Nic Marshall|G11 (main room)|
+|[[roland-dpx-3300|Flatbed Plotter]]|YES|Hackspace (maintained by John Honniball)|G11 (main room)|
+|[[uv-exposer|UV exposer]]|YES|Hackspace|G11 (main room)|
+|[[reprap|RepRap + Kinect]]|YES|Hackspace (maintained by Ian Stratford / Russell Dicken)|G11 (main room)|
+|[[magnifier-lamp|Magnifier Lamp]]|no|Hackspace|G11 (main room)|
+|[[irc-mac|IRC Mac]]|no|Hackspace (maintained by Barney Livingstone)|G11 (main room)|
+|[[pc|Hackspace PC]]|no|Hackspace|G11 (main room)|
+|[[oscilloscope|Oscilloscope]]|no|Hackspace|G11 (main room)|
+|[[hot-air-gun|Hot air gun]]|no|Hackspace|G11 (main room)|
+|[[sig-gens|Signal Generators]]|no|Hackspace|G11 (main room)|
+|[[bubble-etch|Bubble Etch Tank]]|YES|Hackspace|G11 (main room)|
+|[[reflow-oven|Solder Reflow Oven]]|no|Ian Stratford|G11 (main room)|
+|[[multimeters|Multimeters]]|no|Hackspace|G11 (main room)|
+|[[label-printer|Label printer]]|no|Hackspace|G11 (main room)|
+|[[psus|Power Supplies]]|no|Hackspace|G11 (main room)|
+|[[dummy-load|Dummy Load]]|no|Hackspace|G11 (main room)|
+|[[soldering-irons|Soldering irons]]|no|Hackspace|G11 (main room)|
+|[[20x-microscope|20x microscope]]|no|Hackspace|G11 (main room)|
+|[[breadboards|Breadboards]]|no|Hackspace|G11 (main room)|
+|[[hand-tools|General hand tools]]|no|Hackspace|G11 (main room)|
+|[[bbc-micros|BBC Micros]]|no|Hackspace|G11 (main room)|
+
+If you would like something not on this list, please see [[equipment wanted]].
+
+===== Hackspace layout =====
+
+A more-or-less scale plan of the hackspace is as follows (10cm = 1m): (compiled by David W and Jon, June 2012 after acquisition of the architects' space)
+
+{{:bv_studios_g11_space_plan.odg|space plan}}
+
+The first page is just the space itself; the second page has some of the furniture, but we didn't measure how big much of it was!

@@ -1,0 +1,28 @@
+==== Hackspace Proposal ====
+
+
+**Title:** Arduino proposal
+
+**Submission Date:** 11/02/2014
+
+**Current Status:** Agreed
+
+**Proposer:** RD
+
+**Description:** Hackspace to purchase ten of the cheaper Chinese versions of Arduino Uno currently on the market, for Hackspace internal use. 
+ Purchase charge £6.59 each from Hong Kong. These can then be kept for training purposes, or offered for sale to course attendees at £7 each (which will give the Hackspace a small profit if sold, and access to what we need for educational purposes otherwise). .
+
+
+
+**Budget:** £65.59
+
+**Funding source/model:** 100% Hackspace-funded
+
+
+**Resources depended upon:** for training and education/project work
+
+
+**Member supporters:** RD, AA, RS, WP, JD, KS, CL, JO
+
+
+**Committee supporters:** DW, DH, MV

@@ -1,0 +1,16 @@
+====== Bristol HackKids ======
+
+<box 40% right red| **Getting Involved** >
+  * **[[http://hackkids.org/ | Go to the main HackKids website]]**
+  * [[how_to_get_into_the_physical_hackspace#Finding the hackspace | Come along ]] on the last Sunday of every month
+  * [[http://twitter.com/bristolhackkids | Follow us on Twitter]]
+</box>
+
+[[http://hackkids.org/|HackKids]] is a place for kids of all ages to come and have fun with science and technology in a safe and informal environment.  We meet on the last Sunday of the month at 14:00 until 16:00 and it's all free.
+
+Although we welcome kids of any age, we do ask that parents remain with primary age kids and below.
+==== Rules of HackKids ===
+  - Don't touch anything you shouldn't
+  - Tidy up afterwards
+  - Tell all your friends about HackKids
+  - Be safe

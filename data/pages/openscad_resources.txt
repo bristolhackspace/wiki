@@ -1,0 +1,20 @@
+====== References ======
+   *[[http://www.openscad.org/ | OpenSCAD home]]
+   * [[http://en.wikibooks.org/wiki/OpenSCAD_User_Manual | User Manual]]
+   * [[http://www.openscad.org/cheatsheet  | Cheat Sheet]]
+   * [[https://github.com/openscad| OpenSCAD on Github]]
+   * [[http://rocklinux.net/mailman/listinfo/openscad | mailing list]]
+   * [[http://reprapmagazine.com | reprap magazine ]]
+====== Libraries ======
+  * [[https://github.com/openscad/MCAD | MCAD]] gears, threads etc
+====== Tutorials ======
+  * [[http://peak5390.wordpress.com/2013/01/08/an-introduction-to-3d-modeling-with-openscad-openscad-basics/|open scad for non programmers]]
+  * [[http://edutechwiki.unige.ch/en/OpenScad_beginners_tutorial | Edutech Tutorial]]
+  * [[http://kitwallace.posterous.com/tag/openscad | Chris Wallace's blog ]]
+  * [[http://curriculum.makerbot.com/daily_lessons/february/ | Makerbot February lessons]] daily lessons.
+====== Social ======
+  * [[https://twitter.com/search?q=openscad | Twitter]]
+  * [[http://www.thingiverse.com/tag:openscad | Thingiverse]]
+  * [[http://www.youtube.com/results?search_query=OpenSCAD| Youtube]]
+  * [[http://www.shapeways.com/search?q=openscad | Shapeways ]]
+  * [[https://github.com/search?q=openscad | GitHub]]

@@ -1,0 +1,32 @@
+== Cards vs Fobs ==
+The building management want our fobs back in return for cards. We don't know if the fobs will stop working.
+
+== Current keys available == 
+
+We have 3 keys and fobs atm.
+
+== List of current key holders ==
+
+  * If you want a key add your name to the list, pay the deposit and email the list. The deposit is to be paid to the usual account, and is £30. £20 of the deposit is returnable.
+  * If you have a key/fob and haven't yet paid your deposit, please pay.
+  * If you have a key/fob and aren't on the list please add yourself.
+
+^ Name         ^ Has a key or fob   ^ paid deposit  ^
+| Matt V       | back door key      | yes        |
+| Paul Maddox  | no                 | yes |
+| Anton        | no                 | no |
+| Ian S        | fob                | no |
+| David H      | no                 | no |
+| Alaric       | no                 | no |
+| Sam W        | fob                | yes |
+| Arthur       | card               | yes |
+| Tarim        | back door key      | yes |
+| Jon          | back door key      | yes |
+| Ed           | fob                | yes |
+| Mark P       | fob                | yes |
+| Russell D    | fob                | yes |
+| Steph        | no                 | yes |
+
+== Other ways in ==
+
+Don't forget you can check if people are in via the web. [[how_to_get_into_the_physical_hackspace]]

@@ -1,0 +1,83 @@
+A laser cutter is a computer-controlled machine that moves a powerful laser in two dimensions. As such, it can cut or engrave flat objects, quickly and accurately, to a design you produce on a computer using software such as Inkscape, CorelDraw, or your own code.
+
+Cutting is done by slowly drawing the shape you want cut, with the laser on a high power, so it cuts all the way through. As the laser moves through the exact shape you want, nice clean cuts with smooth edges are produced.
+
+Engraving is done by rapidly scanning the laser back and forth across the workpiece, turning it on and off as it goes to "scan" shapes in a raster pattern. As it is moving quickly, and at a lower power, it only burns away the top layer of the material, creating the engraved pattern.
+
+The hackspace has the shared use of a laser cutter, owned by Lauren. It is in the messy space.
+
+==== Dire warning ====
+
+DO NOT USE THE LASER CUTTER UNLESS YOU HAVE BEEN INDUCTED IN ITS USE AND SIGNED THE USAGE AGREEMENT. YOU MAY DAMAGE IT OR YOURSELF. {{:lasercutter:laser_cutter_user_agreement.pdf|Reference copy of user agreement}}
+
+Inductions cost £30 (or £10 if you are already an experienced laser cutter user and just need to know the details of this laser), and usage is charged at £15 per hour.
+
+=== List of inducted folks ===
+
+^ Name         ^ Inducted On ^ Status ^
+| Lauren S     | n/a         | Inductor and Owner |
+| Harry G      | 2013-09-27  | Complete |
+| Steph T      | 2013-10-02  | Complete |
+| Ian S        | 2013-10-03  | Complete |
+| Alaric S-P   | 2013-10-03  | Complete |
+| Mike Thomson | 2013-10-13  | Complete |
+
+==== Rules for using the Laser Cutter ====
+
+During the induction, the procedure for safe usage of the laser cutter will be explained to you.
+
+{{:lasercutter:laser_cutter_rules.pdf|Laser Cutter Rules}}
+
+A copy of the checklist will soon be attached to the laser cutter for on-site reference.
+
+==== Capabilities of the laser cutter ====
+
+Bed size (largest sheet of material it can work on): 812mm x 508mm
+
+Suitable materials for cutting: 
+
+  * Laser-safe plywood, 
+  * Acrylic (aka Perspex), 
+  * Paper
+  * Leather
+
+No other materials are to be used, as they may produce toxic and/or damaging fumes. (Lauren has suggested that other laser-safe materials may be considered ONLY after the BV Building Manager (Rob) has approved them, and she has a final right of veto.)
+
+DO NOT attempt to cut any material that contains/emits hazardous vapours.
+[[http://www.epiloglaser.co.uk/laser_faqs.htm#pvc]]
+
+A well presented list of materials that are NOT laser-cutter-friendly can be found [[http://www.atxhackerspace.org/wiki/Laser_Cutter_Materials|here]], courtesy of the [[http://www.atxhackerspace.org/wiki/Main_Page|ATX HackerSpace]].
+
+=== Supported file formats ===
+The laser is driven by Corel Draw, so anything it can import will work fine. The laser will cut any shape that has a "hairline" border line, and will engrave anything else in the image.
+
+See below for the Epilog driver that other programs can use. Note it's only compatible with Windows XP, Vista and Windows 7 (32-bit mode only).
+
+==== Useful Information for Laser Cutter Users ====
+
+=== Epilog manual ===
+
+  * [[http://www.epilogfiles.com/legend_manual.pdf]]
+
+=== Epilog Drivers ===
+
+  * [[http://www.epiloglaser.co.uk/downloads_legend.htm]]
+
+=== Obtaining Materials ===
+
+Some suppliers of materials you can cut with the laser (not to say that everything they sell is suitable, merely that some things are! ALWAYS CHECK!):
+
+  * [[http://hpclaser.co.uk]]
+  * [[http://www.hindleys.com]]
+  * [[http://www.mindsetsonline.co.uk/ | Mindsets Online ]] sell some laserable boards including [[http://www.mindsetsonline.co.uk/Catalogue/ProductDetail/birch-ply-4mm-laserable-?productID=4b0b994c-38ea-45d9-af81-9a135c48d962&catalogueLevelItemID=00000000-0000-0000-0000-000000000000 | birch ply ]]
+
+FIXME: Please add more links to good suppliers here.
+
+Some [[laser_cutter_risk_assessment|materials risk assessments]] for different materials are available.
+
+=== Things to Cut ===
+See [[http://www.thingiverse.com/thing:35918|matt venn's label maker]] for a python script and pipelines for generating SVGs with python and exporting to working DXFs.
+
+See [[http://boxmaker.rahulbotics.com/]] for a tool to make templates for nice boxes.
+
+Epilog's [[http://www.epiloglaser.co.uk/sample_club.htm|Sample Club]] has free examples to download and use.

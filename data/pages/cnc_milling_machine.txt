@@ -1,0 +1,5 @@
+Matt V has bought a CNC router (made by routoutuk). It has a bed size of 50cm2 with a Z axis travel of 8cm. It lives in G10 (across the corridor from our main space). He's happy to give [[CNC router training]] training and make it available for trained hackspace members.
+
+Other people who are interested in CNC milling:
+  * Lek and Row have a working CNC router.
+  * David H is building a CNC router.

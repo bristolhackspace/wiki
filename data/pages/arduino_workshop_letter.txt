@@ -1,0 +1,23 @@
+Dear participant,
+
+thanks again for joining us!
+
+To help us get started quickly, please install the arduino IDE on your computer (http://arduino.cc/en/Guide/HomePage)
+
+We start at 10am on Saturday.
+
+You are heading to http://www.pmstudio.co.uk/about-pervasive-media-studio.
+If you have any problems getting in or finding us, please call Matt on xxxxxx
+
+There are bike racks outside and bus stops near by. If you come by car then there are some local car parks: Millenium Car Park. the NCP and the Trenchard Street multistorey is not too long a walk, and is cheaper.
+
+You can bring lunch with you, or there are local places to eat in or take out.
+
+You may find it useful to have an old-fashioned notebook and pen with you to jot down notes for your own reference.
+
+Finally, we want to spend Sunday helping you to build your own projects; so have a think about what you might like to do. Lots of inspiration here:
+http://www.instructables.com/tag/type-id/category-technology/channel-arduino/
+
+Thanks,
+
+Bristol Hackspace

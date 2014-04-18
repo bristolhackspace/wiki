@@ -1,0 +1,15 @@
+Herein is a list of projects Hackspace members are working on. Feel free to ask if you'd like to get involved!
+
+  * [[alarics-wearable-computer|Alaric's Wearable Computer]]
+  * [[alarics-distributed-home-computer|Alaric's distributed home computer network thingy]]
+  * [[david-w-lego-cake-3d-printer|David W's Lego 3d cake printer]]
+  * [[chris-wallace-openscad | Chris Wallace's OpenSCAD work]] 
+
+Lists of Hackspace members who are collectively interested in a topic:
+  * [[Hackspace members interested in 3d printing|3d printing]]
+  * [[cnc_milling_machine|CNC machining]]
+
+=== Group projects ===
+
+  * [[3D printed lathe]] by Alaric and Ginjaian
+  * [[tweettube]] by [[Matt Venn]] and [[Sam Willcocks]]

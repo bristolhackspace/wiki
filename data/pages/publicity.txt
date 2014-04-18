@@ -1,0 +1,19 @@
+====== Publicity ======
+
+Stuff we use to pull in the punters can go here.
+
+[[logo|Download the logo graphics]]
+
+[[flyer|A Flyer]]
+
+[[britishhackspacesmap|Map of British Hackspaces]]
+
+[[posters|Posters]]
+
+bookmark (work in progress) - http://smorgasbords.net/hackspacetest/wp-content/themes/hackspaceflyer1003132.pdf 
+
+Currently our flyer lacks:
+
+  * clear information about what we offer - 3d printer, laser cutter
+  * some good buzzwords: arduino, raspberry pi
+  * why someone would want to join - share ideas, collaborate, use the space and tools

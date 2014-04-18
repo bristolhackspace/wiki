@@ -1,0 +1,82 @@
+====== Bristol Hackspace Wiki ======
+
+<box 40% right red| **Getting Involved** >
+  * [[http://bristol.hackspace.org.uk | Read the blog]]
+  * [[http://bristol.hackspace.org.uk/sign-up/ | Become a member]]
+  * [[http://twitter.com/bristolhackspc | Follow us on Twitter]]
+  * [[https://lists.aktivix.org/mailman/listinfo/hackspacebristol | Join the mailing list]]
+  * [[https://github.com/bristolhackspace | Check out our GitHub Repository]]
+  * [[#Editing | Update the wiki]]
+  * [[members_meet | Attend a Members' Meeting]]
+</box>
+
+Welcome to the Bristol Hackspace Wiki, a place to share ideas and information for the Bristol Hackspace community.
+
+If there's information you want that isn't on here, please add it to the list of [[requested pages]].
+
+<box 100% left blue| **News** >
+  * [[BV Open Studios 2013]] is coming up soon - add your project to the list!
+  * We're [[Insurance|insured]] to run workshops out of our space.
+  * We have a new [[Laser Cutter]], get inducted and start cutting now 
+  * [[HackKids | Bristol HackKids]] meets the last Sunday of every month at 14:00.
+  * There's a [[Hackspace Shared Calendar|google calendar for hackspace events]]!
+  * Matt offers to share his [[CNC Milling Machine]]
+  * [[Hackspace - The Next Generation]] - thoughts on getting more physical space
+
+</box>
+
+<box 47% left green|**Information and Guides**>
+  * [[Our tools and facilities]]
+  * [[How to get into the physical hackspace]]
+  * [[BOTlab:Expenses claims | Buying items for the Hackspace]]
+  * Member's [[projects]] - add your project here!
+  * [[Publicity]]
+  * [[New People Read This]]
+  * [[BOTlab:]] administration and other boring but necessary stuff
+  * [[Signs]] to go on the Hackspace wall
+  * [[http://bristol.hackspace.org.uk/anyonein/|Anyone in script]] - see explanation [[how_to_get_into_the_physical_hackspace|here]]
+</box>
+
+<box 47% right green|**Equipment and components**>
+[[Our tools and facilities | Equipment in the space]] includes:
+  * [[Laser Cutter]]
+  * [[CNC milling machine]]
+  * [[reprap | 3D Printer]]
+  * [[myford super 7 lathe|Metal lathe]]
+  * [[Woodturning lathe]]
+Other pages:
+  * [[Components]]
+  * [[equipment wanted | Equipment we would like to buy]]
+  * [[Corporate memberships | Scrapstore membership]]
+</box>
+==== Hacker's Resources ====
+
+  * [[network outage logbook]]
+  * [[Code Snippets]]
+  * [[Links and Resources]]
+  * [[Info On Custom PCB Sources]]
+  * [[openscad resources]]
+
+===== News Archives =====
+
+  * [[spring clean 2014]]
+  * [[minimakerfaire2013|We showed things off at the Bristol Mini Maker Faire]] in March 2013
+  * [[openscadworkshop|OpenSCAD workshop plans]] on the 29th January
+  * [[PiJam|next Raspberry Pi Jam]] on the 8th Jan at the space
+  * [[PiJam-11-2012|Raspberry Pi Jam]] on the 11th December at the space
+  * [[Arduino Workshop 2]] happened
+  * [[agm_16_02_2012_and_adoption_of_new_botlab_constitution|AGM 16/02/2012 and Adoption of new BotLab Constitution]]
+  * [[Exhibition-2011-10-14|BV Open Studios Weekend]]
+  * [[Exhibition-2011-09-15|The Mad Hackers' Tea Party]] (in BV's Motorcade/Flashparade gallery)
+
+===== Editing =====
+
+For this wiki we use DokuWiki a freely available, standards compliant and easy to use [[http://en.wikipedia.org/wiki/Wiki|wiki]].
+
+If you would like to know more about DokuWiki then you can visit the home page at: http://www.dokuwiki.org/dokuwiki
+
+Or read the manual at: http://www.dokuwiki.org/manual
+
+Wiki pages are written using a simple markup language. This allows you to add formatting such as **bold**, //italic// and __underline__ and more. For more on this markup language see http://www.dokuwiki.org/syntax and [[How to create tables]]
+
+If you would like to contribute to the wiki to add your own pages or anything else you consider useful to the Hackspace community then click the //login// link above. This will take you to another page from where you can register.

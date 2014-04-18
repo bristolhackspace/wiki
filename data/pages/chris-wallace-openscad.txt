@@ -1,0 +1,5 @@
+=====Chris Wallace's OpenSCAD work ====
+
+I'm learning to use [[openscad_resources | OpenSCAD]] to create 3 D objects. 
+
+I'm [[http://kitwallace.co.uk/Blog/tag/openscad | blogging]] about my progress and projects, putting code on [[https://github.com/KitWallace/openscad |GitHub]] and some objects on [[http://www.thingiverse.com/kitwallace/designs | Thingiverse]].

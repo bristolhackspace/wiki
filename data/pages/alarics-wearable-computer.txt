@@ -1,0 +1,15 @@
+I want to build a wearable computer.
+
+I have [[http://www.snell-pym.org.uk/archives/2010/12/23/wearable-computers/|written about this on my blog]], so I won't go into the eventual design here, so much as discuss my current subprojects...
+
+Basically, as I have decided to go for "electronics embedded in transparent epoxy" as a way of ruggedising a wearable sufficient for my active lifestyle, I need means of human input that don't depend on things like pushbuttons. That basically boils down to:
+
+  - Cap sense, with metal pads embedded just below the surface of the epoxy
+  - Light sense, either with my fingers obscuring natural light from hitting an embedded sensor, or using a special stylus that shines light into sensors from a tiny LED
+  - Magnetic sensing of a magnetic stylus with Hall sensors
+
+Cap sense is potentially useful, but veers into unfamiliar analogue territory for me. I don't think light sense will be reliable enough at avoiding false positives. So I'm research the Hall sensors.
+
+My first thought was to put a hall sensor everywhere I want a "button" and poke them with a magnet, but as hall sensors are able to detect the magnet at a distance of many centimetres, and can be had with an analogue output reflecting the field strength, I am currently doing feasability studies to see if I can use a few Hall sensors to detect the position of the stylus in at least two dimensions; perhaps three - and maybe even the full five axes of three-dimensional position and two rotational axes. Magnetic fields are directional, and Hall sensors are directional devices that reflect the field strength in their sensitive axis only - so there is enough information available to a group of six or more Hall sensors spread over all three perpendicular orientations to be able to tell the position, orientation, and strength of a magnet.
+
+That might allow for an interesting gestural stylus interface for my wrist unit.

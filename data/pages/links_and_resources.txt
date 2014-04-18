@@ -1,0 +1,120 @@
+Links and resources
+
+**CNC software**
+
+[[http://www.heeks.net]]
+
+At www.heeks.net, you can download HeeksCNC, a CAD/CAM application for Windows or Linux that can help you produce the NC code for your milling machine. Many happy customers are already using HeeksCNC to boost their productivity.
+Think this ones free.
+
+[[http://www.cnccookbook.com/CCGWizardE.html]]
+
+G-Wizard G-Code Editor: 
+
+g-code editing and simulation. mac/linux/windows $69 per year inc upgrades
+
+
+[[http://www.sherline.com/cnclinks.htm]]
+
+big list of CNC links:
+
+**Arduino**
+
+[[http://www.arduino.cc/]]
+
+Arduino home page, diy microcontroller board, Hackspace Members have used this to make a huge array of projects.
+
+[[http://chipkit.org/wiki]]  [[http://chipkit.org/forum]]
+
+Mainly Arduino compatible board from Digilent/Microchip, supports faster and larger projects.
+
+**Raspberry Pi**
+[[http://www.raspberrypi.org/]]
+
+An ARM GNU/Linux box for $25
+
+[[http://www.raspberrypi.org/forum]]
+
+Forum
+
+
+**3d Printing**
+
+[[http://www.faberdashery.co.uk/]]
+
+A relatively local (in Frome) supplier of quality PLA feed stock.
+
+**Electronics**
+
+[[http://www.kpsec.freeuk.com/]]
+
+one of the best beginners guides I've seen
+
+[[http://kicad.sourceforge.net/wiki/Main_Page]]
+
+Fully free open source EDA suite for schematic through to PCB, supports Win, Linux and Mac
+
+**Programming (or development)**
+
+[[http://www.codecademy.com]]
+
+a browser based javascript tutorial.  JS can be used on websites and is also the scripting language used in Adobe After Effects and other programs to automate processes and write your own extensions to the app.
+
+
+[[http://rdegges.com/how-i-learned-to-program]]
+
+How i learned to program, nice blog post, motivational american styles, he's only 23, life hasn't kicked him in the teeth yet...
+
+[[http://paulgraham.com/lisp.html]]
+
+paul graham, lisp evangelist, did quite well for himself with it.
+
+[[http://lisperati.com/casting.html]]
+
+Interactive Common Lisp tutorial, make a text adventure in your browser.
+
+[[http://tryruby.org/levels/1/challenges/0]]
+
+Try Ruby in your browser.  Ruby is a high level language from Japan designed for maximum programmer happiness.
+
+[[http://mislav.uniqpath.com/poignant-guide/book/]]
+
+The poignant guide to Ruby... The most bonkers programming text I have ever read.  Quite often Java programmers find Ruby and breathe sighs of relief... less typing is needed, and everyone knows computer programming is just typing.
+
+[[http://en.wikipedia.org/wiki/JRuby]]
+
+JRuby allows Ruby syntax to be used in Java
+
+**Graphics**
+
+[[http://www.processing.org]]
+
+Processing is an open source programming language and environment for people who want to create images, animations, and interactions. Initially developed to serve as a software sketchbook and to teach fundamentals of computer programming within a visual context, Processing also has evolved into a tool for generating finished professional work. Today, there are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning, prototyping, and production. 
+
+Included with the Pure:Dyne Linux distro listed below
+
+[[http://js.processing.org/]]
+
+Javascript version which works on web pages without the viewer needing plugins like Java or Flash installed.
+
+**Sound**
+
+[[http://www.soundonsound.com/sos/allsynthsecrets.htm | Synth Secrets]]
+
+A ridiculously large series on sound synthesis, includes lots of block diagrams for instruments to inspire your own programs or constructions.
+
+[[http://supercollider.sourceforge.net/]]
+
+SuperCollider is an environment and programming language for real time audio synthesis and algorithmic composition. It provides an interpreted object-oriented language which functions as a network client to a state of the art, realtime sound synthesis server.
+
+[[http://puredata.info/]]
+
+Pd (aka Pure Data) is a real-time graphical programming environment for audio, video, and graphical processing. It is the third major branch of the family of patcher programming languages known as Max (Max/FTS, ISPW Max, Max/MSP, jMax, etc.) originally developed by Miller Puckette and company at IRCAM. The core of Pd is written and maintained by Miller Puckette and includes the work of many developers, making the whole package very much a community effort.
+
+Easier to start with than Supercollider, the best article ever about Pd (not that I'm biased) can be found here: [[http://www.soundonsound.com/sos/aug06/articles/puredata2_0806.htm]]
+
+Both SC and Pd are included with Pure Dyne
+
+**Linux Distro's**
+
+[[www.puredyne.org | Puredyne is the USB-bootable GNU/Linux operating system for creative multimedia. ]] includes all manner of obscure multimedia FLOSS

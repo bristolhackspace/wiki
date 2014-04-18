@@ -1,0 +1,60 @@
+** Todo **
+
+  * DONE write and send the [[arduino workshop letter|arduino workshop letter]]
+  * DONE decide what IDE we want people to install
+  * DONE order the ardx kits, with hackspace branding. Barney, do you want to email me one of your logos and I'll ask oomlout to print it on the boxes?
+  * what could we offer in the way of breaks for people? things to do when they get stuck, need a break. toys, games, books etc.
+
+**Volunteers**:
+
+Please fill in your availability on the day here:  
+
+http://doodle.com/8stzb5fe8ffs8xqa
+
+Looking good! At least 5 people available at all times!
+
+And let us know what you'd be interested in doing:
+
+  * Barney
+  * Kaspar
+  * Tarim - advanced programming, classes, non-blocking waits, handling limited data memory. Can also help out with sensors (sonar, IR, LDR, capacitance).
+  * Patrick
+  * Anton
+  * Steve B
+  * Jon
+  * Matt - admin, happy to do intro to electronics again, or run a mini workshop as suggested below
+
+** Structure **
+
+Any suggestions of how we can make it better would be fantastic. Feedback suggested we mostly got time and content right, and that we missed out a bit about what the arduino is, about how to breadboard. 
+
+Matt and Tarim had a good discussion/planning session on 2nd March. We think that it would be great to have all day Sunday dedicated to personal project development. Saturday will be more structured, with optional workshops at the end of the day (if we have time). Here is a plan:
+
+https://docs.google.com/spreadsheet/ccc?key=0AmuCVSW6X_KGdDM4NWhncTNKdFR6LTRjR1VtdkdURVE
+
+** Dropin workshop ideas **
+
+We have a whiteboard or similar and let people choose which workshops they are interested in. Then we run those according to how many people we have.
+
+
+  * using sensors (sonar, IR, LDR, capacitance)
+  * controlling steppers
+  * control dc motors
+  * servos
+  * wireless
+  * knobs and buttons
+  * soldering workshop
+  * i2c/spi
+  * how to use a multimeter
+  * led array/shift reg
+  * sending data to a computer for www display
+  * general project help
+
+
+** Last time **
+
+schedule (loosely what we did if I remember right)
+https://docs.google.com/spreadsheet/pub?key=0AmuCVSW6X_KGdDM4NWhncTNKdFR6LTRjR1VtdkdURVE&output=html
+
+Feedback from last time:
+https://docs.google.com/spreadsheet/pub?key=0AmuCVSW6X_KGdFRfR1UtRTRKVThYcnQtTXVqQTF0TlE&output=html

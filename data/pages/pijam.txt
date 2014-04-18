@@ -1,0 +1,15 @@
+===What?===
+
+Bring along your raspberry Pi and some ideas for hacking. This will be a hosted session (by Matt Venn), but there will be no instruction. 
+
+  * Share knowledge and ideas
+  * Build a break out board
+  * Make your Pi talk to an Arduino
+
+Where? At the hackspace: BS3 4EA
+
+When? 7pm onwards on 8/01/13
+
+Why? Share and learn about Raspberry Pi. We have 2 spare Raspberry Pis at the space for those who are interested.
+
+Cost? Free for members, £2 for non members.

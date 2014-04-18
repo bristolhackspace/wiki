@@ -1,0 +1,3 @@
+====== BBC Micros ======
+
+We have two BBC Micro computers, one Model B and another a Master. They've had the usual problems with the Rifa capacitors in the power supplies, which have been replaced with new ones. There's a Sony Trinitron TV set which can be tuned to UHF channel 36 for use with them.

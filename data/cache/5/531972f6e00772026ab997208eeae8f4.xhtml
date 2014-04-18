@@ -1,0 +1,33 @@
+
+<h1 class="sectionedit1" id="plotter_programs">Plotter Programs</h1>
+<div class="level1">
+
+<p>
+This page will contain the source-code for the various programs that we run to make interesting output from the plotter. The plotter itself is a Roland DXY-990 flat-bed 8-pen plotter with a maximum paper size of A3. It has both serial (RS-232) and parallel (IEEE 1284) interfaces, but we generally use the parallel one for convenience.
+</p>
+
+<p>
+Although the plotter will accept up to eight pens, our current software utilises at most four. Most of our plotter programs, in fact, are designed for a single pen. Fine lines are best drawn with the V-ball pens, while thicker lines are made with the Staedtler Tri-Plus pens.
+</p>
+
+<p>
+Ordinary copier paper is used, in either A4 or A3 size. It is held down on the plotter&#039;s flat drawing surface by electrostatic attraction. The electrostatic cling is switched on and off by the “paper hold” button on the plotter&#039;s control panel. Loading and unloading of paper is manual.
+</p>
+
+<p>
+All the code is written in C apart from &#039;spiro&#039;, which is in C++. It runs on Linux, but could probably be ported to other systems without difficulty.
+</p>
+<ul>
+<li class="level1"><div class="li"> Spiro - uses four pens to simulate a Spirograph</div>
+</li>
+<li class="level1"><div class="li"> Tree - draws a fractal tree recursively</div>
+</li>
+<li class="level1"><div class="li"> Dala2 - draws a mandala-like circular pattern</div>
+</li>
+<li class="level1"><div class="li"> Op - draws the “op-art” pattern of concentric quadrilaterals</div>
+</li>
+<li class="level1"><div class="li"> Hilb - draws the Hilbert curve using four pen colours</div>
+</li>
+</ul>
+
+</div>

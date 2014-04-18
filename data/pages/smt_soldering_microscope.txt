@@ -1,0 +1,17 @@
+=== Surface mount soldering microscope ===
+  * PAID: Alaric would be willing to put £20 towards a nice microscope like the ones we had at the SMT soldering tutorial.
+  * Matthew Venn puts in £20
+  * Dominic Morrow sees that and raises us £10.
+  * PAID: Arran puts in £20
+  * Patrick puts in £10
+  * PAID: Jon puts in £10
+
+Previous wisdom suggests that one such as http://www.brunelmicroscopessecure.co.uk/acatalog/Brunel_Microscopes_DM_Low_Power_hand_lenses_28.html#a772 at £62+VAT would suffice. 
+
+The DM6 is cheaper and was the one Richard suggested. The total including shipping for the DM6 is £48.96.
+
+We've overbid (£90) so if nobody objects Alaric will buy the DM6 if everyone who bids gives him 54% of what they bid - £10.80 for the £20 folks and £5.40 for the £10 folks, and the few pence change goes into the hackspace moneybox. If anyone objects, respond on the mailing list soon!
+
+== UPDATE - BOUGHT ==
+
+Alaric has ordered the scope. It's in the hackspace, and claimed as an expense, so please send your pledges to David.

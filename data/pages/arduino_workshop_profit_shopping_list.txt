@@ -1,0 +1,44 @@
+=====Arduino workshop profit shopping list=====
+
+=====How might you spend £500?=====
+
+Following the Hackspaces first Arduino Workshop we have some money we can spend on equipment.
+
+What would you like to get?
+
+
+- On one big piece of kit?
+
+- On lots of small tools?
+
+- Save it to buy a bigger piece of kit later?
+
+Edit this page to add your suggestions 
+(We will collect suggestions up until 18th August and then we can vote on what to do/get)
+
+====Long term items to get====
+
+Small CNC Mill -- how about a CNC part funded by members who will make use of it most? This would stretch our money a bit further and could be fairer to people who have no cnc interest. Maybe then we could say that if you've put up some cash towards it you get first use for a period of time? - Toby 
+
+More temperature controlled soldering irons
+
+A picoscope 
+
+A laser cutter (could be a kit)
+
+Sewing Machine - Aaron
+
+Not exactly an item but I thought we could run a "Hackspace Bursary" scheme. For example we request people to submit an arduino project idea, we pick the most interesting and give them £100 towards materials. Conditions like you must be a member for x months prior to winning and that you demo your piece to Hackspace or Dorkbot within 2 months. This would get us a nice bit of press at launch / win / demo stages and could encourage membership to increase. -Toby
+
+
+Boring idea - keep some money in the bank for unexpected events. - Toby
+====Smaller Items Sundries Hand Tools====
+Dremel
+
+Crocodile Clip Leads
+
+====Possible PCB Etching Equipment====
+Seno GS etching system (£10.49)
+
+http://www.rapidonline.com/Tools-Fasteners-Production-Equipment/PCB-Equipment/Etching/Seno-GS-etching-system/29446/kw/Etching
+

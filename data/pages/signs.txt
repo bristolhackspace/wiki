@@ -1,0 +1,35 @@
+===== Signs for the Hackspace Wall =====
+
+If you want to add to these or have a better way to word existing ones then edit them here and print out and stick up a new copy.
+
+==== Bristol Hackspace ====
+
+Our aims are to open up technology to anybody who takes an interest in it.
+
+Web site: http://bristol.hackspace.org.uk/
+
+Mailing list: http://bristol.hackspace.org.uk/maillist
+
+IRC: http://bristol.hackspace.org.uk/chat
+
+Twitter: [[ https://twitter.com/bristolhackspc | @bristolhackspc ]]
+
+==== Equipment and Safety ====
+
+You are responsible for your own safety and to not endanger others.  Only use equipment if you've been trained in its use.  Or as they say at Nottinghack, "Do not be on fire!"
+
+==== New here? ====
+
+You're welcome to visit us on our open Thursday meet-ups.  If you want to drop in more than once or twice a year; want to use the space at other times or use any of the equipment then we'd like you to become a paid up member.  Pay what you feel it's worth to you.  People pay between £10 and £40 per month.
+
+http://bristol.hackspace.org.uk/signup
+
+==== Sign In ====
+
+Please put your name in the Sign-In Book whenever you use the space.  It helps us apply for funding; get concessions and show what a useful asset we are to the community.
+
+==== Please Hack and Do Not Hack signs ====
+
+David W has made some signs for the shelves of tools, projects and raw material:
+
+{{::do_not_hack_please_hack_signs.odg|Please Hack and Do Not Hack signs}}

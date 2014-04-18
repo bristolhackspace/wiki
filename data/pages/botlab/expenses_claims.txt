@@ -1,0 +1,13 @@
+====== Buying things for the Hackspace ======
+
+You can buy things for the Hackspace and claim back the expenses.  If it's something cheap and uncontentious then it should be fine to just go ahead and buy it.  If it's more expensive then discuss it on the [[ :equipment wanted ]] page or [[ https://lists.aktivix.org/pipermail/hackspacebristol/ | Hackspace mailing list ]] and also check with our treasurer, David Wyatt, that we can afford it.
+
+To reclaim expenses then email a filled in form and scans of receipts (or hand a printed form and real receipts!) to David and he'll sort out the repayment.
+
+Email addresses are firstname.secondname@bristol.hackspace.org.uk
+
+====== Downloadable Forms ======
+
+{{ botlab-expenses-claim-form.odt }}
+
+{{ botlab-expenses-claim-form.pdf }}

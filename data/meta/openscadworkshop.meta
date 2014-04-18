@@ -1,0 +1,14 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1397827316;s:8:"modified";i:1397827316;}s:7:"creator";s:9:"Patrick N";s:4:"user";s:7:"patrick";s:11:"last_change";a:7:{s:4:"date";i:1397827316;s:2:"ip";s:12:"77.99.57.235";s:4:"type";s:1:"C";s:2:"id";s:16:"openscadworkshop";s:4:"user";s:7:"patrick";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";}s:5:"title";s:23:"OpenSCAD workshop plans";s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:466:"OpenSCAD workshop plans
+
+preparation
+
+	*  install openscad on your pc and check you can render an example or two. Pick a release for your platform from here <http://www.openscad.org/>
+	*  Matt and Jon to bring examples.
+
+timing & costs
+
+	*  Tuesday 29th Jan
+	*  get to the hackspace at 6.30 for a 7pm start. Finish at 9pm.
+	*  Map: <http://maps.google.com/maps?q=51.442974,%20-2.593308%20%28Bristol%20Hackspace%29&z=18>
+	*  hackspace members free
+	*  £3 non members";}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1397827316;}s:7:"creator";s:9:"Patrick N";s:4:"user";s:7:"patrick";s:11:"last_change";a:7:{s:4:"date";i:1397827316;s:2:"ip";s:12:"77.99.57.235";s:4:"type";s:1:"C";s:2:"id";s:16:"openscadworkshop";s:4:"user";s:7:"patrick";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";}}}

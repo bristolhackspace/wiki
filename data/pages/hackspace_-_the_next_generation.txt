@@ -1,0 +1,52 @@
+===== Why? =====
+
+There has been a lot of talk about the future of Bristol Hackspace. Particularly to do with the size of the current space and growing membership. Several alternative locations have been suggested on the mailing list but to make it easier to look at the options I created this page. Please feel free to add/extend/change it.
+
+===== Points to Consider =====
+
+==== Solutions - does it solve more problems than it creates? ====
+
+  * How is the space for Thursday evening social meetings?
+  * How is the space for other evening and day working?
+  * How is the access available to members at different times of the day?
+  * How accessible is it for visitors? (parking?)
+  * What are the facilities for electricity/water/sanitation/rubbish removal?
+  * What are the lease and notice agreements?
+  * What are the expected rates payments?
+  * Does it have a street display?
+
+==== Cost - is it financially sustainable? ====
+
+Are we reasonably sure we can cover the cost?
+
+Before moving to BV Studios we had nearly enough people paying sufficient subscriptions to cover the new rent and a few people who said they would cover any shortfall if subscriptions didn't pick up enough.
+
+==== Risk - do we end up with no Hackspace? ====
+
+  * The major risk is, if we take on somewhere that is not sustainable financially, that we have to move out and end up with no Bristol Hackspace at all.
+  * A minor risk is that we also have to dissolve Botlab.
+
+==== Advice from other hackspaces ====
+
+[[advice before moving a hackspace]]
+
+==== Champion - is there someone who is willing to take a lead? ====
+
+In order to move anywhere - it takes someone to lead the process.  If everyone is advocating a move but no-one is going to take on this role then it won't happen.
+  * Put in the time to answer all the questions in the "Solutions" section.
+  * Negotiate with the landlord.
+  * Negotiate with the council if necessary.
+  * Deal with all the unforeseen points which come up when moving.
+
+===== Possibilities =====
+
+^ Location ^ Information ^ Cost ^ Advantages ^ Disadvantages ^
+|Current space for comparison (including ex-architects' area)|350 sq ft|£2,500 pa + electricity (all else included)|We're here already|Lack of space on Thursday. Accessibility|
+|[[http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=BS3+4DB&aq=&sll=51.481732,-2.63589&sspn=0.011359,0.018432&ie=UTF8&hq=&hnear=Bristol+BS3+4DB,+United+Kingdom&t=m&z=16&vpsrc=0&iwloc=A|Windmill Hill]] [[http://maps.google.co.uk/maps?q=BS3+4DB&ll=51.442737,-2.594509&spn=0.00041,0.002411&oe=utf-8&client=firefox-a&hnear=Bristol+BS3+4DB,+United+Kingdom&gl=uk&t=h&z=19&layer=c&cbll=51.442729,-2.59451&panoid=FOabRZqL_QxiV6LyDCaaKQ&cbp=11,263.7,,0,-4.71|Street view]]|1,198 sq ft [[http://www.whatsonbristol.co.uk/Property/Property%20to%20let/Unit%201,%20Windmill%20Farm%20Business%20Centre|Details]]|£8,000 pa|Just across the road|Sustainability|
+|Taking on more of G11|550 sq ft (estimate)|£4,125 pa + electricity (all else included)|Easy & cheap|Not known when this will be available|
+|BV studios phase 2|915 sq ft|£6,863 pa + electricity (all else included)|Easy & cheap|Not available until October 2012 earliest|
+
+==== Meetings ====
+[[Future hackspace discussion meeting 2013_02_06]]
+
+[[Future hackspace etc discussion meeting 2013_03_04]]

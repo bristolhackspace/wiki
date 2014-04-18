@@ -1,0 +1,27 @@
+==== Hackspace Proposal ====
+
+
+**Title:** Example proposal
+
+**Submission Date:** 03/10/2013
+
+**Current Status:** Awaiting committee review
+
+**Proposer:** ST
+
+**Description:** An example to show what a proposal might look like when filled out.
+
+
+
+**Budget:** £0.00 - amazingly this one's free!
+
+**Funding source/model:** 100% Self-funded
+
+
+**Resources depended upon:** The hackspace wiki
+
+
+**Member supporters:** ST, ER, ME, I+I, MOI
+
+
+**Committee supporters:** AA, BB, ..

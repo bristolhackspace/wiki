@@ -1,0 +1,71 @@
+====== Present ======
+
+Patrick Neave, Alex Angell, Sam Willcocks, Matt Venn, Nathan Dumont, David Stewart, Jon Dowling, David Henshall, Tarim, Ian Stratford, Barney Livingston, David Wyatt (minute-taker) 
+
+====== overall concensus =====
+
+we want more members. More members = more use of the space, equals more money for a larger space, equals a definite need for a larger space, equals more tools and more cool stuff happening.
+====== Notes ======
+
+
+  * Patrick's presentation
+    * Aim of this meeting: start to decide how to proceed, make it official
+    * The problem: too little space...
+    * Options: Stay, expand within BV, move to a new space
+    * Does anyone think we don't need to move? Matt: yes - underused except on Thursdays
+    * Patrick presents numbers => we need more money for a bigger space (he suggests 2000sqft)
+    * => options are increase membership, increase subscriptions
+    * People paying £10/month coming along rarely might not want to increase contributions?
+    * Figures for people who never come back after a Thursday? Catch-22: the open night is the most crowded, so least appealing...
+    * Likelihood of more space in G11? Poppy going to be moving out soon (?) - solar people? special people with more space to store stuff
+    * Patrick's figures: £17k/yr for commercial rent in a 2000sqft unit
+    * No urgency - we're not being thrown out
+    * 100 members @ £20/month
+    * Patrick's vision for the hackspace:
+      * Concrete-floored workshop space
+      * Carpeted, desk-equipped space for knitting circles/hackkids
+      * Centre of Bristol
+    * Tarim: What's the problem we're trying to solve?
+      * David H: space that people can use in the way (when) they want
+      * Patrick: wants to grow the space
+      * DH: Bristol could support a bigger hackspace - 100 members => space, facilities, equipment, - IS: bigger community gives a variety of influences, diversity, workshops - also, mechanical people need more space than electronics
+      * Patrick: access is a problem
+      * Tarim: any chance that could be solved within BV? Patrick: G11 is not big enough for 100 members - Nathan: wrong type of space because it's only one space, noise & messiness issues
+      * DH: short & long term problems 
+      * DS: space puts people off - we could do more - and space is not big enough for >3 people to *work*
+      * Tarim: doesn't want to move to an even larger space that's even more underused & costs more money & lose BV space
+      * Existing space is underused - lack of equipment? or lack of promotion? - nothing to promote?
+      * DH: majority of subscriptions paid by people who turn up on a Thurs evening - nice social event, exchange of knowledge
+      * IS: G10 + G11 would be ideal, with G10 being messy space - could we encourage other current tenants to move to Phase 2? - bit by bit - BV is well managed, cheap, good location, and we could always scale back again - Poppy possibly moving out end of Feb - possible issues with too much hackspace, but all the artists are interested whenever they come in
+      * DS: £4500 in the bank atm [though some is owing to BV & electricity company] - more than a year's worth of rent - allows us not to risk the Hackspace
+      * Patrick: can't make plans, and working piecemeal
+      * Patrick: crowdfund the expansion? 1000 Twitter followers (half imaginary?!)
+  * Summary so far: Can't get more space without more members unless we crowdfund: Patrick's idea 100 people £200 each, 1 year's membership for free - give us the money upfront for negotiating with landlord, spend excess on equipment
+  * Message for Maker Faire? Needs to be decided
+  * Survey Bristol: what do they want? £20/month for a community workshop? - Barney: surveys are not very helpful
+  * DS: most people want a bigger space - **concrete proposal:** set out a <del>vision statement</del> written version of what we want to achieve
+  * Matt: issue is space getting better utilised? Barney: most hackspaces are like that - members have day jobs, if we had more members people would be using it more
+  * Everybody likes to turn up on Thursdays because we're one social group - if there was a different group that used it on a different night that'd use it more - if had 3x members there'd be 3x people in the space all the time, if not more if you have critical mass/network effects
+  * Alex: do we focus on what we have, rather than what we do or can offer? DH: workshops are a strain, don't want to commit to doing them often
+  * DS: dichotomy between Thursday nights & rest-of-the-week - most of the people ...
+  * Tarim: move the open night to another night to stop people leaving because they think it's too busy - but we don't want it to be too 
+  * Tarim & IS: find out why people who leave don't come back - perhaps appoint someone each evening to greet newcomers
+  * Patrick: have a "cosy corner" where new people can be taken to sit down & have the hackspace explained to them
+  * Patrick: **concrete proposal:** page on website with benefits of joining, along with a paper copy to be given to people when they arrive, poster with QR codes? for website, join mailing list; capture their information & email them in a month to find out why they haven't joined?
+  * Sam: **concrete proposal:** have a members-only mailing list? for discussing things like this which only paying members can access? Sam will set up
+  * Patrick: this is a useful meeting to have regularly
+  * DH: plenty of kickstarter-type organisations, can do a speculative proposal - and can iterate if necessary
+  * Matt: Artspace Lifespace are moving out of current Bristol College location, looking at renting a new warehouse space somewhere - might we want to work with them? We need to tell them what we want (how much space), how much cash we can bring (£6k/annum), what activities, what collaborations? - whole bunch of people wanting to move together, collective of people needing big workshops, mostly metal-hitting/angle-grinding
+  * Consensus: we want more members!
+  * Patrick: other groups are interested in sharing space, but we don't think they should be spatially segregated - use it on different nights or just share facilities
+
+====== Actions ======
+  * Members-only mailing list: Sam will set this up
+  * Extra space in G11, G10, G12: Matt has asked for first refusal on any extra space in this end of BV, Poppy is most likely to be moving out soon
+  * Everyone to review minutes
+  * Write a vision statement: member benefits, aims, what we can offer - David Stewart and Barney Livingston
+  * Investigate crowdfunding platforms: David Henshall
+  * Improve reception of newcomers: David Stewart (to organise)
+  * Communicate with Artspace Lifespace: Matt to send them our minutes & find out more about what they're interested in, & send details to list for people interested in going to meeting on Sunday
+
+Next meeting: March 4 - to talk about crowdfunding? set up questionnaire to ask if you'd pay £20/month for new space; plan for influx of new people after Maker Faire (Saturday open day the weekend after Maker Faire, and a sequence of other events/workshops: 3d printing, repair cafe) - Patrick and Tarim to organise - write an agenda - crowdfunding, maker faire, general quest for more members

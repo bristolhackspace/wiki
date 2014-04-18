@@ -1,0 +1,15 @@
+====== Flyer ======
+
+A flyer that barnoid put together:
+
+Version 2:
+
+{{:flyer_v2.svg|SVG source}}
+
+{{:flyer_v2.pdf|PDF A4 Size}}
+
+Version 1:
+
+{{:flyer.svg|SVG source}}
+
+{{:flyer.pdf|PDF A4 Size}}

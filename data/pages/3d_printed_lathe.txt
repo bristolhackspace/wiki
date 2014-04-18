@@ -1,0 +1,18 @@
+Ginjaian is 3D-printing parts for a small lathe. Alaric's offered to pay him for plastic to finish it off so he can build it as it looks fun. This has started to grow into a group project to have a small lathe in the space.
+
+Matthew Venn has a Proper Metal Lathe that can be borrowed for a small fee, but there's still a benefit to this little one:
+
+  * It'll be fine for simple tasks.
+  * If we break it, we can print new parts (let's be honest, it's the plastic bits that will break) rather than having a huge repair bill.
+  * It'll be owned by the group so we can extend it crazily until it's CNC controlled, sentient, and able to reproduce itself.
+  * It'll be fun.
+
+=== Details ===
+
+[[https://github.com/Intrinsically-Sublime/Printable-Lathe-V2]]
+ / [[http://www.thingiverse.com/thing:9242]]
+
+=== Contributers So Far ===
+
+  * Ginjaian for use of his 3D printer and his time and maybe some other bits (was a threaded rod or two mentioned?)
+  * Alaric has pledged £30 for the plastic, and some time to put it together and play with it, and will obtain some parts as required.

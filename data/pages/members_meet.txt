@@ -1,0 +1,29 @@
+====== Members' Meetings ======
+
+<box 40% right red| **Next: 7:30pm, Tuesday 8 April 2014 @ Hackspace ** >
+  * [[#Next Meeting Agenda | Next Meeting Agenda]]
+  * [[#Minutes from Previous Meetings | Previous Meetings' Minutes]]
+</box>
+
+The Members' Meetings are an informal chance for all members to get involved and have their say about the running of the Hackspace. 
+
+The meetings are usually well attended and have a very positive effect on the running of the space. Items to be discussed can be added by anyone and are circulated in advance. Minutes are published almost immediately afterwards on the wiki.
+
+==== Next Meeting Agenda ====
+
+  - Process for electing new committee at the AGM
+  - What to do with donated electronics
+  - Use of new space in G10/G11
+  - Any proposals for equipment to purchase
+
+
+
+==== Minutes from Previous Meetings ====
+  * [[ botlab:openmeeting 20140408 | Open meeting 8 April 2014 ]]
+  * [[ botlab:openmeeting 20130916 | Open meeting 16 September 2013 ]]
+  * [[ botlab:openmeeting 20130603 | Open meeting 3 June 2013 ]]
+  * [[ botlab:openmeeting 20130415 | Open meeting 15th April 2013 ]]
+  * [[ :future hackspace etc discussion meeting 2013_03_04 ]]
+  * [[ :future hackspace discussion meeting 2013_02_06 ]]
+
+[[botlab:meetingminutestemplate|Meeting minutes template]]

@@ -1,0 +1,29 @@
+====== tweettube ======
+
+an internet doorbell for the hackspace. Do you want to come down to the space, but don't know if someone's in? Tweet @bristolhackbell with a question that can be answered with a 'yes' or 'no'.
+
+The doorbell will play a doorbell sound, and if someone's in they can reply by pressing a button.
+====== pictures ======
+
+[[http://www.flickr.com/photos/anachrocomputer/8455978520/in/pool-bristolhackspace]]
+
+====== circuit diagram ======
+
+todo
+
+====== how to hack ======
+
+we've left some easily available extra pins available on the system, that include serial IO for easy arduino connection.
+
+====== code & case CAD ======
+
+We're using openscad for the case
+
+[[https://github.com/mattvenn/hackspace-pi/tree/master/tweettube]]
+
+We're using python with [[http://stackoverflow.com/questions/10970550/using-tweepy-to-access-twitters-streaming-api|tweepy's streaming API]].
+====== blog posts about the project ======
+  * case design [[http://www.mattvenn.net/2013/02/17/using-openscad-for-2d-machining/]]
+  * overview [[http://racoontech.co.uk/2013/01/twitter-doorbell/]]
+  * raspberry pi code
+  * writing a simple control library in python for the VFD

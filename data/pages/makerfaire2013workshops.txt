@@ -1,0 +1,31 @@
+=== ideas ===
+ 
+  * Introduction to analogue electronics - free?
+  * SMT workshop building Arduino nanos - £10? haven't worked out BOM
+  * SMT workshop building boost boards - £5
+  * Laser induction - £20? - and would require membership
+  * Wood lathe induction - 
+  * CNC induction - £50 - too pricey?
+  * Raspberry Pi workshop - free
+  * 3D printing and openscad workshop - free
+  * Beginners Arduino workshop - include kit? might be too much work?
+
+=== Suggestions for Electronics Workshops ===
+  * How to read electronic circuit diagrams (schematics, component identification)
+  * How to use electronic test equipment (multimeter, signal generator, scope, power supplies)
+  * Simple diode circuits (LED, rectifier, zener, TL431)
+  * Simple transistor circuits (amplifiers, oscillators, power supplies, power drivers)
+  * 555 timer circuits (inc. noisemakers, e.g. the Atari Punk Console)
+  * Op-amp circuits (amplifiers, oscillators, analog computers, signal conditioning)
+  * Logic circuits (gates, flip-flops, counters, decoders, multiplexers, shift registers)
+  * Sensors and transducers (piezo, infra-red, microphones, hall-effect, temperature, pressure)
+  * Analog-to-digital and digital-to-analog (analog audio and video, analog mux, SPI/I2C DAC/ADC)
+  * Circuit repair (common failures, fault-finding, testing)
+  * Electronic music (synth circuits, guitar stomp-boxes, rhythm boxes)
+
+=== offering the workshops ===
+
+  * have a signup list at the hackspace table,
+  * take emails and for those workshops that require payment, or do via a laptop there,
+  * get people to pay before hand via event brite or similar.
+  * have a suggestions box as well, take email and if we get enough people we can put something on that has been requested.

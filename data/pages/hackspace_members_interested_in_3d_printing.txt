@@ -1,0 +1,5 @@
+(see also [[reprap|the page about the Hackspace 3d printer]])
+
+^ Name ^ Printer type ^ Extruder diameter(s) ^ Electronics type ^ Filament available for trade ^
+| David Wyatt    | Reprap (Prusa Mendel with TVRRUG modifications) | 3mm | TVRRUG E-modules (Sanguino-based) | 3mm orange/clear PLA, 3mm white ABS |
+| Richard Sewell    | Rostock | 1.75mm | Melzi |  |

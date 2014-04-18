@@ -1,0 +1,13 @@
+====== Info On Custom PCB Sources ======
+
+I (Nathan) was showing some PCBs I had made very cheaply at the Hackspace and was asked to post some details for others who may be interested.  The cost of having custom boards made is very low and when you compare the advantages of through-hole plated and silk screened boards with home etched or milled PCBs the waiting time seems less of a problem.
+
+I got mine from [[http://iteadstudio.com/]] they only took 2 weeks and cost $30 inc shipping for 8 5x10cm double sided boards (actually they sent 10 but they don't guarantee that yield in the colour PCB option).  They provide comprehensive design rule specifications and have an Eagle download for these, I used [[http://www.kicad-pcb.org/display/KICAD/KiCad+EDA+Software+Suite|KiCAD]] and exported Gerber files and the board worked fine.
+
+There's also been a recent post from Adafruit about PCB prototyping services (it mentions iTead Studio):
+
+[[http://www.ladyada.net/library/pcb/manufacturers.html]]
+
+I've had boards from [[http://www.pcb-pool.com/ppuk/index.html]] before and they do very professional complex processes (including aluminium substrate and up to 6 layers) but it costs quite a lot.  They accept both KiCAD and Eagle files natively along with a bunch of other formats.
+
+A handy 3D gerber viewer with impressive realistic board images is free to use here: [[http://mayhewlabs.com/3dpcb]]

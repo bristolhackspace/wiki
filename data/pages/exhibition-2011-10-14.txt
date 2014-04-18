@@ -1,0 +1,48 @@
+====== BV Open Studios 2011 ======
+[[http://bvstudios.blogspot.com/]]
+
+===== What =====
+Every year BV Studios opens its doors to the public to come and see what goes on.  It can be work in progress and is to show what goes on in BV as much as what anyone produces.  Bristol Hackspacers have been building various interactive sound making stuff.
+
+Many thanks to everyone who came and helped - and all the people who visited us, played and had fun.  Lots of good feedback from both visitors and the other BV residents (but I hope we didn't chase Poppy away from G11 with all that automated xylophone.)
+
+===== Where ====
+We've been offered the use of the kitchen as well as anything we want to put in our space in G11.  We should also be able to use the newly vacated area (thanks Mike) and our usual overspill into our friendly neighbourhood architects space.
+
+===== When =====
+Friday 14th October - 6pm-9pm \\
+Saturday 15th October - 11am-6pm \\
+Sunday 16th October - 11am-6pm
+
+===== What =====
+
+==== Kitchen ====
+  * An innocuous set of tins along with drumstick (Richard)
+  * Optical theromin reacting to hand gestures (Arran)
+  * Tilty - Noise generating box (Chocolate Jon)
+
+==== Newly vacated area ====
+  * Pisano Wheels
+  * Plotter (John H)
+  * Sketchy (Richard/Row)
+
+==== Usual overspill area ====
+  * TheEyesTheEyes (Richard)
+  * Computer Henge (Adam)
+
+==== Hackspace area ====
+  * A ball-bearing sequencer (Aaron) to control a set of instruments including:
+      * Visual display of outputs (Chocolate John)
+      * Coconut (Row)
+      * Xylophone (Anton)
+      * Octophonic Sound (Chocolate John)
+  * Game of Life (Nathan)
+  * 3D Printer (Chocolate John)
+
+===== Notes =====
+The pubic will be visiting over the weekend, so please remember, some people don't know what a soldering iron is and that they shouldn't pick it up by the hot end.
+
+  * Fire exit must be kept clear in the kitchen
+  * Lights must be kept on in the kitchen
+  * No trailing leads. Tape down or move anything that could be a trip hazard
+  * Don't leave hot soldering irons unattended

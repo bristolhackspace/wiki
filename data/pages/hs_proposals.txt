@@ -1,0 +1,91 @@
+====== Hackspace Proposals ======
+**N.B. If you have paid for goods or services on behalf of the Hackspace, you should reclaim the money using the [[botlab:expenses_claims | expenses claim form]].**
+
+===== Aims and Objectives =====
+
+
+Hackspace Proposals are a mechanism to put forward project ideas that would impact on the Hackspace and its members - e.g. infrastructure changes, additional tools and equipment, furnishing the space.
+
+Proposals should:
+  * be clearly defined
+  * provide information on their intended goal, who they will affect and how
+  * state what they depend on in terms of resources
+  * include a budget if applicable with a funding model (e.g. self-funded, part-funded, match-funded)
+  * have one principal proposer
+
+For proposals to be deemed successful they must achieve support from:
+  * five Hackspace members (exclusive of the initial proposer)
+  * three members of the committee (not counted amongst the above), to be discussed at the next quarterly committee meeting
+
+===== Funding =====
+
+Some proposals may require financial backing.
+
+Dependent on the scope and remit of certain proposals it may be appropriate for full or partial funding by Hackspace. Proposals should include an estimated budget (backed by quotations, etc where appropriate) and a funding model.
+
+Funding models may include:
+  * full funded by Hackspace
+  * a percentage split between Hackspace and supportive member backing (including match funding)
+  * fully member supported
+
+If you have paid for goods or services on behalf of the Hackspace, you should reclaim the money using the [[botlab:expenses_claims | expenses claim form]].
+
+===== Knowing whether you need to make a proposal =====
+
+#TODO: fill in this section
+
+===== How to make a proposal =====
+
+  - Fill in the template form below
+  - Post to the members mailing list
+  - Create a wiki page in the 'hsproposals' namespace containing the completed form and named in the format "yyyy-mm-dd-proposal-name"
+  - Add a link and info in the table below.
+  - **The easiest way to create a new proposal page is to edit this page, duplicate and modify one of the lines in the table, save the page, click on the red link you have just created and click on the 'Create' link next to the search box at the top of the page.**
+
+
+===== Existing Proposals =====
+
+^ Date      ^ Title       ^ Proposer          ^ Status          ^
+| 03/10/2013    | [[hsproposals/2013-10-03-Example-proposal|Example proposal]]     | ST        | Awaiting Committee Review        |
+| 11/02/2014    | [[hsproposals/2014-02-11-Arduino|Purchasing proposal]]     | RD        | Agreed|
+
+===== Proposal Template =====
+
+
+==== Hackspace Proposal ====
+
+
+**Title:**
+
+**Submission Date:**
+
+**Current Status:**
+
+**Proposer:**
+
+**Description:**
+
+
+
+**Budget:**
+
+**Funding source/model:**
+
+
+**Resources depended upon:**
+
+
+**Member supporters:**
+
+
+
+**Committee supporters:**
+
+
+
+===== To resolve =====
+
+Use [[talk/hs_proposals|discussion tab]] of this page to find resolution to the following queries:
+  * is there a time limit on proposals validity? for garnering support and for implementation?
+  * what happens if it needs to be actioned sooner than the next quarterly committee meeting?
+  * should it be a percentage of the hackspace membership rather than an absolute number to reflect the interests of a growing membership?

@@ -1,0 +1,18 @@
+<span class="co2">#include &lt;waiter.h&gt;</span>
+&nbsp;
+<span class="kw4">const</span> byte ledPin <span class="sy1">=</span> <span class="nu0">13</span><span class="sy4">;</span>
+<span class="kw4">const</span> <span class="kw4">clock_t</span> flashTime <span class="sy1">=</span> <span class="nu0">2</span> <span class="sy2">*</span> SEC<span class="sy4">;</span>
+&nbsp;
+waiter ledFlash<span class="sy4">;</span>
+<span class="kw4">bool</span> ledState<span class="sy4">;</span>
+&nbsp;
+<span class="kw4">void</span> setup<span class="br0">&#40;</span><span class="br0">&#41;</span> <span class="br0">&#123;</span>
+    pinMode<span class="br0">&#40;</span> ledPin, OUTPUT <span class="br0">&#41;</span><span class="sy4">;</span>
+<span class="br0">&#125;</span><span class="sy4">;</span>
+&nbsp;
+<span class="kw4">void</span> loop<span class="br0">&#40;</span><span class="br0">&#41;</span> <span class="br0">&#123;</span>
+    <span class="kw1">if</span><span class="br0">&#40;</span> ledFlash.<span class="me1">wait</span><span class="br0">&#40;</span> flashTime <span class="br0">&#41;</span> <span class="br0">&#41;</span> <span class="br0">&#123;</span>
+        ledState <span class="sy1">=</span> <span class="sy3">!</span>ledState<span class="sy4">;</span>
+        digitalWrite<span class="br0">&#40;</span> ledPin, ledState <span class="br0">&#41;</span><span class="sy4">;</span>
+    <span class="br0">&#125;</span>
+<span class="br0">&#125;</span><span class="sy4">;</span>

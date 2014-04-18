@@ -1,0 +1,17 @@
+====== Logo Graphics ======
+
+====== Original Vector Format ======
+
+[[http://bristol.hackspace.org.uk/wiki/lib/exe/fetch.php/logo1.1.svg|Original in SVG format.]]
+
+[[http://bristol.hackspace.org.uk/wiki/lib/exe/fetch.php/logo1.1_notext.svg|Original without text in SVG format.]]
+===== Bitmap PNGs =====
+
+^ ^ ^ 300px ^ 100px ^
+^ Text ^ Transparent Background | {{:logo1.1_300_trans.png?direct&100|300px PNG format, transparent background.}} | {{:logo1.1_100_trans.png?direct&100|100px PNG format, transparent background.}} |
+^ ::: ^ White Background | {{:logo1.1_300_white.png?direct&100|300px PNG format, white background.}} | {{:logo1.1_100_white.png?direct&100|100px PNG format, white background.}} |
+^ No Text ^ Transparent Background | {{:logo1.1_300_trans_notext.png?direct&100|300px PNG format, no text, transparent background.}} | {{:logo1.1_100_trans_notext.png?direct&100|100px PNG format, no text, transparent background.}} |
+^ ::: ^ White Background | {{:logo1.1_300_white_notext.png?direct&100|300px PNG format, no text, white background.}} | {{:logo1.1_100_white_notext.png?direct&100|100px PNG format, no text, white background.}} |
+
+====== Logo in Swarf Photo ======
+{{:bristolhackspace_logo_swarf1.jpeg?direct&200|}}

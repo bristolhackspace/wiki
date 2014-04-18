@@ -1,0 +1,12 @@
+====== Roland DPX-3300 Flat-Bed Pen Plotter ======
+
+  * A1 size
+  * HPGL (Hewlett-Packard Graphics Language)
+  * 8 pen
+  * Serial (RS-232) and parallel interfaces
+  * Made in about 1987
+  * Electrostatic paper hold-down
+
+Git repository of useful HPGL-generating software, in C for Linux:
+
+[[http://github.com/anachrocomputer/vec]]

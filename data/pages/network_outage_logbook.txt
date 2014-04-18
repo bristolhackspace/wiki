@@ -1,0 +1,6 @@
+^ when      ^ what       ^ how fixed          ^
+| 3/1/13   | internet link up but black router doesn't do dns resolution  | overwrote /etc/resolv.conf in hackspace desktop with public dns: 198.153.192.1 |
+| 21/1/13   | internet link up but black router doesn't do dns resolution  | overwrote /etc/resolv.conf in hackspace desktop with public dns: 198.153.192.1 |
+| 22/1/13   | internet link up but black router doesn't do dns resolution  | overwrote /etc/resolv.conf in hackspace desktop with public dns: 208.67.220.222 |
+| 1/2/2013  | g11a only routing through mesh, not through wired (black router) connection | reset g11a and black router (Tarim) |
+| 19/2/2013  | g11a not giving DNS (apparently for a while but no bugger reported it) | reset black router and unchecked DNS relay in router (Tarim/Matt) |

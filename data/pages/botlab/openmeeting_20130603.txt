@@ -1,0 +1,65 @@
+====== Open meeting 3 June 2013 ======
+
+===== Agenda =====
+
+  - BV Studios Open Weekend (14-16 June)
+  - More electrical sockets in the space (proposed by Ian S)
+  - Arrangements for use of the 3D printer (proposed by David W)
+
+
+===== Attendees =====
+Barney Livingston, Jon Dowling, David Wyatt (minute-taker), Russell Dicken, David Henshall, Tarim
+
+===== Topics discussed =====
+
+  * Air compressor (DW):
+    * DW has seen one on the work noticeboard for £10 - 3l - do we want it? no tools - probably get it...
+    * Generator (DH): if we had one we could set up outdoors - in the past we were invited to do something outside for the Civic Society? Tarim: better to hire one, we don't have to store it & petrol - & if you are doing low-voltage then use a lead-acid battery (+inverter) - battery might help, and also solve PAT testing problems at Maker Faires etc. - wait for an occasion & then think about getting one
+    * DH: on a similar note, Russ was wondering about getting PAT testing eqpt & training - £400 total, £200 for kit & for training + insurance on top - not immediately but for the wish list... - might need top-up training
+  * BV Studios open weekend: 
+    * Friday 14 June evening to Sun 16 June - Tarim can be around for some of it but not in advance - Richard & Anton cooking something up?
+    * 3d printer: would be nice to run it - Ian & Russell might be able to run it for some time - & Alex's Rostock - print non-engineering parts, or maybe engineering!
+    * John might run plotters - & vinyl cutter?
+    * Ask Richard to bring Sketchy - & polar plotter, perhaps from Q
+    * Arthur's projects
+    * Anton woodturning?
+    * Robert would like a list of what we're going to put on - doesn't want to be sued! Here we go: [[:BV Open Studios 2013]] - DW will email
+  * More plug sockets (IS):
+    * How? hanging from ceiling? too difficult - simplest & cheapest is to put them on the walls
+    * Then how to get walls to tables? cable mats over extension leads
+    * Where: IS suggests 8 more double sockets - on a certain layout
+    * Who to sort it out? Have to speak to Robert. Has to be someone there during the day - Matt? Ed? DH will ask them
+    * Lock: Tarim has been ringing locksmith (Simon Stadden) but he hasn't got back about costs... Tarim will pass on contact details to DW
+    * Locks and security: DH has spoken to Penny: she & Robert would like to know who's using BV, so they are concerned about lots of Hackspace people using them - so what they want is that they directly hand out keys, arrangement is between BV and individuals not Hackspace - BV holds keyholders' addresses
+    * Thursday nights are not a problem - enough people around to keep an eye
+    * Seems like a good system in a way... - 
+    * Advantage is we don't have to chase people to get keys back from them
+    * Send a list to Penny of current cardholders? Perhaps a good idea
+    * Getting cards/fob to/from Penny outside working hours: get in touch with her by email & ask her to leave key in the hackspace in a named envelope
+    * So we won't spend money on a new lock for the glass door, but will on plugs
+    * Another issue: keys to the glass door for Thursdays and workshops etc. - have a small number given to responsible people and ensure they lock door later
+    * DH will talk to Penny about this
+    * DH has discovered that 
+  * 3d printer:
+    * Standard process - induction + pay-per-use
+    * Documentation: Russell will do this
+    * Russell, Ian, DW will sit down & discuss induction
+    * Consumables: we have a fair amount atm but we should hide the ABS so people don't use it - charge by machine time, £5/hr? or £1/hr for use of the machine with their own filament
+    * Payment for inductions: £10 towards hackspace
+    * Start making a collection of reprap parts? not really needed - enough members have them... - some other 
+    * Stick to PLA! instructions, sign on printer!
+  * LAN party (JD):
+    * DEE planning another workshop in "a month or so" on 31 May
+    * Appropriate date: Sat 22 June?
+    * IS will check & send an email to the list to announce it
+  * Shelving
+    * DEE interested in storage - about a shelf of
+    * Issue of toilet just outside G11... DH to ask Penny if it can be brought into use
+    * IS: we have enough parts to make another set of shelves on the end of the existing one - find out if building needs access to the drain underneath it, another space underneath window
+    * Fridge is unnecessarily big for the usage!
+    * Locker not an efficient use of space - put things on the racking
+    * Space for proper set of recycling bins underneath space
+    * IS will organise this
+    * Paint the floor? maybe have a go... despite Dave S's father's scepticism
+    * DEE's storage? under continuous review - we're happy to help them, and 1 workshop per month is reasonable, but more than that is perhaps a bit excessive - needs to be fair
+  * DH: we helped out at IT MegaMeet at weekend (Russell, Anton, DH) (3d printer, Sketchy, Pizano Wheel) & won a Community Support Award

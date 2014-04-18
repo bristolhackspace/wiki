@@ -1,0 +1,56 @@
+====== Who this guide is for ======
+
+This is an introductory guide for prospective members, intended to get you started, help you to find out if you want to become a member, and set you on course to making the most of your membership.
+
+Although it is a Wiki page, with plenty of links to other pages with more detailled information, it is also intended to be usable as a printed handout to give to new folks who walk in the door!
+
+So, if you're interested at all in the Bristol Hackspace, read on - and if you're reading this on paper, feel free to visit http://bristol.hackspace.org.uk/wiki/doku.php/new_people_read_this to find the latest updates and to be able to follow the links.
+
+====== What is Bristol Hackspace? ======
+
+The Hackspace is many things to many people; what you get out if it depends on what you want.
+
+===== Bristol Hackspace is People (like Soylent Green) =====
+
+But at heart, it's a bunch of people who are interested in making things, fixing things, improving things, inventing things, and fiddling around with technology. And we love hearing about other people's projects and helping out with things you're stuck on. Yes, that includes people who are interested in programming, metalworking, electronics, 3D printing, clothes with LEDs in, knitting, and many other topics. Don't worry that you're not technical enough, or too technical, or that you'll be unwelcome because you're not the stereotypical young white male geek. Even if nobody else currently at the Hackspace shares your interest with you, we'll be fascinated to hear about new stuff we've not come across yet, so come and get us interested. We have a rather outdated list of [[projects|member's projects]] that you should definitely add your projects to.
+
+===== Bristol Hackspace is an Organisation =====
+
+But we're not just a bunch of hackers forming a community in Bristol; we've also pooled monthly donations together in a shared bank account and formed [[botlab:start|Bristol Open Technology Lab]] (Botlab for short) to manage it. We have directors and AGMs and stuff to make sure it's looked after properly and spent on things we want, but can't afford on our own (or don't have space at home for). Or are just plain more fun when shared.
+
+===== Bristol Hackspace is a Place =====
+
+Perhaps the most important thing group funds go on is our venue, which exists both as a meeting place and where we put all our shared tools and materials (more on that next). Members are entitled to use it whenever they want (follow this link for instructions on [[how_to_get_into_the_physical_hackspace|how to get into the physical hackspace]]), but as a new person, you should come along from 7pm onwards on a Thursday, our regular open night. More on that below.
+
+===== Bristol Hackspace has Stuff =====
+
+We also own a lot of useful and interesting equipment as a group, which is available for use by members. Most of it is just there to be used, but more special things like the laser cutter require safety training before you can use it. We keep a list of [[our_tools_and_facilities|tools in the Hackspace]] on the wiki, or come along on a Thursday and ask somebody to show you. Our equipment list is growing, funded by a combination of donations and group purchases with Botlab funds. We also have materials and [[components]] available for use in your projects, as well as our "Please Hack" shelving, full of things that are freely available to hack on. We suggest that people who use the materials, components, and Please Hack things donate something of roughly approximate value in return, or put some money into the donations box towards it if you can!
+
+===== Bristol Hackspace organises events =====
+
+We also organise occasional events, such as workshops where somebody who knows about a particular technique or tool teaches interested people how to do it. You usually pay a few pounds towards the material costs and are helped through a project you get to take home. This is a great way to get started with new techniques!
+
+====== Coming along on an open night ======
+
+So, you're interested in the Hackspace? The next thing to do is definitely to come along the next Thursday evening you can. Just turn up (you don't need to bring anything). You'll find a room full of interesting junk, tools, and chattering people. A seasoned member should notice your arrival and come over and introduce themselves, but if this doesn't happen because we're all distracted by something, please accept our apologies and introduce yourself. We'd love to hear what your interest is, so we can tell you what the Hackspace particularly has to offer you and introduce you to other people with similar interests.
+
+We'll ask you to sign our visitor's book, as we're trying to gather usage statistics, but there's no obligation to become a member unless you'd like to use the equipment or come regularly.
+
+At some point during the evening, there's usually at least one group trip to the nearby chip shop for food, and sometimes we order pizza.
+
+====== What if the Hackspace isn't what I want? ======
+
+Don't forget, we're a membership organisation - and the Hackspace is what the members have made it into so far. If you join up, then getting the equipment you want added is just a matter of drumming up some interest from other members and discussing it with the group. Don't be shy, we're very inclusive!
+
+====== What next? ======
+
+If you like what you see and would like to become a member, then please follow the instructions at [[http://bristol.hackspace.org.uk/sign-up/]]. You will be invited to join our internal members-only mailing list, which is for announcements of things open only to members; please accept the invitation or you will miss out on important news and information!
+
+Whether you sign up as a member or not, keep in touch:
+
+  * Read the {{:playground:bristol_hackspace_manual_2012.pdf|hackspace manual}} for the detailed rules.
+  * Join our public mailing list: [[https://lists.aktivix.org/mailman/listinfo/hackspacebristol]]
+  * Follow our blog: [[http://bristol.hackspace.org.uk/blog/]]
+  * Join our IRC channel: [[http://bristol.hackspace.org.uk/chat/]].
+  * Follow us on Twitter: [[https://twitter.com/bristolhackspc]]
+  * Join or Facebook group: [[https://www.facebook.com/bristolhackspace]]

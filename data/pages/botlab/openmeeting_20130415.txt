@@ -1,0 +1,105 @@
+====== Agenda ======
+  - New space available in G10
+  - Best use of additional space
+  - The finer points of member storage now that our membership is increasing and potential members are asking about storage
+  - DEE's proposal and how the hackspace can accept working businesses as members (workshops, fees, insurance and non members being in the space)
+  - What constitutes a hackspace member (related to 4) and how we can formalize the process
+  - Pay someone to take on an admin/promotional role for the hackspace.
+  - Clarification / Formalisation of process for purchasing equipment with Hackspace Funds
+  - Mitch Altman soldering workshop on May 11th. Decide price and how many places. Allocate roles for obtaining soldering equipment and publicity.
+
+====== Attendees ======
+Tarim, David Henshall, Patrick Neave, Barney Livingston, Jon Dowling, Alexa Mottram (visitor), ? (visitor), Daniel Quiggin from DEE, Sam Willcocks, Russell Dicken, Ian Stratford, David Wyatt (minute-taker)
+
+====== Notes ======
+  - **G10 space**
+    * We have an increasing membership and enough money => confirmed.
+  - **Using space**
+    * PN: 
+      * put desks in new space in G11, keep clean/clear, use for laptops on Thurs or workshops
+      * messy space in G10: bench to 
+      * Poppy's space: sofa, knitting, sewing? craft
+    * SW: Arthur's keen to have the touch table out somewhere
+    * JD: clean up the sink & use Poppy's space for kitchenette
+    * SW has made a plan...
+    * Soldering area should stay - not have too many tables
+    * Moveable/foldable tables - in the architects' space
+    * BL: Power points: run stuff along the ceiling? Do it properly. PN: also networking
+    * Tarim offered to talk to Robert about putting things on the ceiling.
+    * DH: make it moveable
+    * Shelves: on wall space? in front of door, separating us from Gareth's space?
+  - **Storage**
+    * For each member: a small box?
+    * JD: 9l is too small
+    * SW: Nottinghack offer 35l boxes
+    * Insurance issue? Tarim: insurance doesn't cover it
+    * DH: Better to make the base level too small than too big - could end up with 40x 35l boxes - make people think what they leave
+    * Example: long wall in new space is 4.2m, [[http://www.reallyusefulproducts.co.uk/uk/html/onlineshop/rub/b35_0litre.php | 35l boxes]] are 40cm wide & 30cm high => we could get 10 wide x 5ish high = 50 boxes on that wall
+    * Provisionally, allocate a 35l box per member included in subscription but get people to buy their boxes
+  - **Businesses in the hackspace**
+    * DQ gave some background on DEE: community interest company not making profit, spoken to Matt, moved out of current space, 1 workshop/month - proposes a trial workshop - he's from the university so they could use a space there, but low-income families are intimidated by the university... - currently he's joined as a member paying £50/month
+    * Tarim: complicates matters with rates relief, & building owners might not be happy with us subletting to a business but if they join as individuals that's less of a problem - DQ confirms they have insurance to run workshops wherever
+    * Money coming to hackspace from their workshops? 
+    * Tying up the hackspace space? DEE would like to develop a relationship with hackspace - 8-10 people + 2 facilitators - approx size of meeting table in Pervasive Media Studio
+    * Storage? DQ: if storage is an issue they'll go elsewhere - in total they'd want approx a wall's worth of shelving! a couple of boxes would be useful
+    * DH: DEE fits with botlab aims from constitution
+    * DQ: proposal: not store anything, run a workshop there this weekend, tidy up after themselves, see how it works & what people's reactions are
+    * IS: DEE could look for more space in BV Studios for storage for convenience, and use the hackspace for workshops
+    * How often? Once a month
+    * Whole point is to spread knowledge & skills
+    * PN: last Sun of every month is HackKids - need to keep track of calendar - side note: need to put this on the website & combine disparate calendars
+    * General view is positive for a trial at least
+    * IS: invite more groups now we have more space?
+  - **Hackspace membership**
+    * Process goes through too many stages - some people join & we don't know who they are! 
+    * RD: maybe make the "open" list an "Associate Membership"? Consensus: not really - don't want people to expect something
+    * Distinguish between newsletter list & main list (& members list)
+    * IS: what makes a member - how do we handle groups? esp. if groups aren't generally interested in hackspace activities
+    * BL: don't want people coopting bits of the space or claiming they can avoid paying because of work they put in
+    * Tarim: best option is people joining as individuals
+  - **Paying administrators?**
+    * SW: Matt said a US hackspace had paid someone to work on advocating the space & it had paid off in terms of members etc.
+    * DH: CentreSpace coop have an administrator - but they're quite big, we're not in a position to do that now
+    * Tarim: would need to be clear what we'd want someone to do
+    * DW: unneccessary at this point - DH: want to build community organically
+    * IS: need to consolidate, show we can use new space appropriately
+    * PN: plenty of advertising opportunities - IS: better to advertise once we've got something to advertise - DH: need more blog posts! - DQ: DEE have a newsletter & they could publicise it through that - DH: syndicate blog posts
+  - **Equipment purchasing**
+    * DW: Presumed-consent fund was suggested before - but this was when we were spending less on rent...
+    * Ask people to donate/pledge for equipment
+    * IS: start approaching companies & asking for old eqpt etc? BL: as long as it's no-strings
+    * PN: 2 categories: need-to-have, which Hackspace should supply, and nice-to-have which people should pledge for
+    * RD: specific example: Kinect? IS: pledge drive for that item, then owned by the hackspace
+    * IS: storing functional hackspace-owned items? - SW: allocate storage space - JD: add description of how things work & what we use it for - put hackspace stickers on our eqpt
+    * IS: have a poster in hackspace with people's photos on - PN: or 3d models of people's heads?!
+    * Tarim: committee is a backstop - judges mood of hackspace and decides whether to put money in - members can crowdfund too
+    * SW: make people join botlab when they join hackspace? That's how London does it - Tarim: better to leave it loosely-coupled?
+  - **Mitch Altman workshop**
+    * Tarim: May 11th - Move to hackspace now we have the space - last time 12-20 people came
+    * IS: issue of plug sockets
+    * IS: PAT testing? DQ: DEE test all theirs, we could go in - Tarim: Robert would prefer everything PAT testing
+    * Tarim: #spaces? say 16
+    * How much? £20 if nonmember, £10 if member + kits - Mitch brings kits, ~£15 each - TVBGone, trip glasses, LED cube
+    * DH: do we want workshops for existing members or to recruit new ones? - Tarim: encourage new members - don't encourage existing members
+    * Tarim: publicity needed - BL offers to do it
+    * Soldering: Nathan has offered to try to get some from Farnell - DQ: DEE have 25 PAT tested 80W soldering irons with fat tips - but probably too big... Tarim offers to coordinate
+  - **Projector**
+    * The one we were talking about has gone, but we don't know if we won it...
+    * Projectors are in general useful
+    * Projector in hackspace has a broken bulb & costs £80 for a new one, 800x600
+    * PN: what do we want it for? JD: retro game night! - ask for donations for it via crowdfunding? - IS will do this
+    * IS: put the table computer on the wall?
+    * IS: wants to play with structured light scanning, needs higher res - interested in running a 3d scanning workshop - RD has one he can bring
+    * BL: lock away the projector? consider 
+  - **Next meeting**
+    * PN: Here or in the new space? Here - no distractions, beer
+    * IS: regular meetings here?
+    * Tarim: every couple of months sounds good...
+  - **Painting floor**
+    * When Scottish Dave gets some paint...
+    * Tarim will ask Robert about painting a hackspace logo on the floor
+    * Just the area where the concrete is
+  - ** Keys & locks? ** 
+    * Tarim: quote for keys & locks for back door: £279 +VAT for back door lock he thinks Robert will be happy with, + 12 Abloy keys
+    * IS: crowdfund? plenty of people would pay if they could get keys - or pay as hackspace infrastructure?
+  - ** Other spaces ** IS: are we still pursuing? Yes - if it's in G11 - IS: put up a partition - DH: ask Gareth what he wants - Tarim: he's happy for us to take the space we've got

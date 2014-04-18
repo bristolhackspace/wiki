@@ -1,0 +1,5 @@
+A map showing some British Hackspaces with logos and urls. It's not meant to be comprehensive it was as many as I could fit and find logos for. --barnoid
+
+{{:british_hackspaces.svg|SVG source}}
+
+{{:british_hackspaces.pdf|PDF}}

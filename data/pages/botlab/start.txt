@@ -1,0 +1,75 @@
+====== Bristol Open Technology Lab ======
+
+Or Botlab for short - a company limited by guarantee to look after the financial and legal requirements of the Bristol Hackspace, Bristol Dorkbot and other related activities.
+
+{{:botlab_new_constitution.pdf|Our constitution}}
+
+{{:botlab-membership-application-form.pdf|The application form for membership of BOTLab}}
+===== Todo =====
+
+[[ todo | To-do List ]]
+
+===== Meetings =====
+
+[[ meeting 20130917 | Committee meeting 17 September 2013 ]]
+
+[[ openmeeting 20130916 | Open meeting 16 September 2013 ]]
+
+[[ openmeeting 20130603 | Open meeting 3 June 2013 ]]
+
+[[ agm 20130416 | AGM 16th April 2013 ]]
+
+[[ openmeeting 20130415 | Open meeting 15th April 2013 ]]
+
+[[ :future hackspace etc discussion meeting 2013_03_04 ]]
+
+[[ meeting 20130228 | Committee Meeting 28th February 2013 ]]
+
+[[ :future hackspace discussion meeting 2013_02_06 ]]
+
+[[ meeting 20130131 | Committee Meeting 31st January 2013 ]]
+
+[[ meeting20120830 | Committee Meeting 30th August 2012 ]]
+
+[[ meeting20120628 | Committee Meeting 28th June 2012 ]]
+
+[[ meeting20120524 | Committee Meeting 24th May 2012 ]]
+
+[[ meeting20120426 | Committee Meeting 26th Apr 2012 ]]
+
+[[ meeting20120223 | Committee Meeting 23rd Feb 2012 ]]
+
+[[ meeting20120216 | Inaugural Meeting 16th Feb 2012 ]]
+
+[[ meetingminutestemplate | Meeting minutes template ]]
+===== Finances =====
+
+[[finances2011 | Financial statement 2011]]
+
+[[finances2012 | Financial statement 2012 (in progress)]]
+
+===== Misc =====
+
+[[membership_subscription_graph | Membership numbers and subscriptions (currently Feb 2011 to Jan 2013)]]
+
+[[ roles | Roles of committee members ]]
+
+[[ Rates rebate | Justification of rates rebate to Bristol City Council ]]
+
+[[ Rates valuation | Bristol City Council preliminary rates valuation for April 2013 ]]
+
+[[ Expenses Claims ]]
+
+[[ BV Studios G11 space | Some notes on the space we occupy ]]
+
+[[ BOTLab accounting notes ]]
+
+[[ Notes on what we have to file with Companies House ]]
+
+[[ Admin jobs | Admin jobs to do with the running of the Hackspace and BOTLab etc.]]
+
+===== Other links =====
+
+[[http://www.cda.coop/ | Avon Coop Development Association ]] - our constitution was put together with help from Hilary Sudbury here
+
+Accounts: accountant John Lyon, contact Richard Higgs at Bristol Wireless

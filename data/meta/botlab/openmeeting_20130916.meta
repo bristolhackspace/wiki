@@ -1,0 +1,12 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1397676314;s:8:"modified";i:1397676314;}s:7:"creator";s:9:"Patrick N";s:4:"user";s:7:"patrick";s:11:"last_change";a:7:{s:4:"date";i:1397676314;s:2:"ip";s:12:"77.99.57.235";s:4:"type";s:1:"C";s:2:"id";s:27:"botlab:openmeeting_20130916";s:4:"user";s:7:"patrick";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";}s:5:"title";s:44:"Hackspace members' meeting 16 September 2013";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:43:"hackspace_members_meeting_16_september_2013";s:5:"title";s:44:"Hackspace members' meeting 16 September 2013";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:6:"agenda";s:5:"title";s:6:"Agenda";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:9:"attendees";s:5:"title";s:9:"Attendees";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:16:"topics_discussed";s:5:"title";s:16:"Topics discussed";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:503:"Agenda
+
+	*  Update on installation of new power sockets for G11
+	*  Update on latching back door lock & new system for applying for access keys
+	*  Update on 3D printer/scanner project
+	*  Implementation and use of additional laser cutter
+	*  Review of policy/budget and procedure for buying equipment
+	*  Clarification of usage/payment of Please Hack items
+	*  Update on Hackspace member access to Scrapstore
+	*  Update on DIYBio proposals
+	*  Update on new fridge/sink facilities
+	*  Furniture & Ha…";}s:8:"relation";a:2:{s:10:"references";a:1:{s:12:"hs_proposals";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1397676314;}s:7:"creator";s:9:"Patrick N";s:4:"user";s:7:"patrick";s:11:"last_change";a:7:{s:4:"date";i:1397676314;s:2:"ip";s:12:"77.99.57.235";s:4:"type";s:1:"C";s:2:"id";s:27:"botlab:openmeeting_20130916";s:4:"user";s:7:"patrick";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";}}}

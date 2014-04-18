@@ -1,0 +1,13 @@
+====== How to get into the physical hackspace ======
+
+Of course the hackspace is more than just a room with a soldering iron in it, but sometimes you might actually need to get into it. To do so you have a number of options:
+
+  - **Come to an organised event:** The space is always open for our open evenings on Thursdays from 7pm until late, when the street door should be open (or at least unlocked). We also have events most Tuesday evenings, again from about 7pm onwards.
+  - **Find out if someone's there already:** We have [[http://bristol.hackspace.org.uk/anyonein/|an anyone in script]] on our website. If you go to that page from inside the hackspace it'll register that you're in there (or at least on its wireless network); if you go to the page from *outside* the hackspace [network], it'll tell you if anyone else is there. Alternatively you can try just turning up and knocking on the door, but it may not work!
+  - **Tweet [[https://twitter.com/bristolhackbell|@bristolhackbell]]:** this rings a bell inside, and if someone's there they can answer it by pressing the "Yes" button on the black case.
+  - **Look at the [[https://xively.com/feeds/46756/|light level in the space]]**, if the lights are on, probably someone's in.
+  - **Ask a [[keyholder]] to let you in:** A number of hackspace members have keys, so someone will probably be going to the space or nearby at any time of the day. The best bet is to email the mailing list, ideally a couple of days in advance of needing access. 
+  - **Get a key & entry card:** if you are a registered Hackspace member you can apply for your own key using the [[http://bristol.hackspace.org.uk/hackspace-card-request/|Hackspace Card Request form]]. This sends a request directly to the building owners, [[http://www.bvstudios.co.uk|BV Studios]] (who we rent the space from), who will give you a smart card for 24/7 access to the building (through the door into the "loading dock" area) and a conventional key for the door from the corridor into the hackspace. They charge £30 for each set, of which £20 is refundable on return of key and card, and require confirmation that you are a member of the hackspace. The key for the glass door that opens directly onto the street is kept in the space and is general only used for public events like the Thursday night open evening.
+
+====== Finding the hackspace ======
+See the [[http://bristol.hackspace.org.uk/how-to-find-us/|map on the main website]].
