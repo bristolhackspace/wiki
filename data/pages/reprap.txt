@@ -41,8 +41,9 @@ Training courses in the use of the software packages will be set up in due cours
 | David H | 2013-11-26 | to be inducted |
 | John D | 2013-11-26 | to be inducted |
 | William S-T| 2014-01-23 | Inducted by RD | 
-
-
+| Harry S | 2014-03-25 | Inducted by IS |
+| Chris W | 2014-03-25 | Inducted by IS |
+| Donny | 2014-03-25 | Inducted by IS |
 ==== Information for Users ====
 
 === Sourcing Filament ===
