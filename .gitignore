@@ -1,0 +1,6 @@
+
+# omit for security reasons
+conf/users.auth.php
+
+# omit cache files
+data/cache/*
