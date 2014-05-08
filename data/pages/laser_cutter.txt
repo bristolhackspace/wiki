@@ -21,7 +21,7 @@ Inductions cost £30 (or £10 if you are already an experienced laser cutter use
 | Ian S        | 2013-10-03  | Complete |
 | Alaric S-P   | 2013-10-03  | Complete |
 | Mike Thomson | 2013-10-13  | Complete |
-
+| Toby S       | 2014-04-15  | Complete |
 ==== Rules for using the Laser Cutter ====
 
 During the induction, the procedure for safe usage of the laser cutter will be explained to you.
@@ -66,11 +66,11 @@ See below for the Epilog driver that other programs can use. Note it's only comp
 === Obtaining Materials ===
 
 Some suppliers of materials you can cut with the laser (not to say that everything they sell is suitable, merely that some things are! ALWAYS CHECK!):
-
+  * [[http://avonply.co.uk]] based in Pixash Lane Keynsham. Sell 3 / 4 / 6mm birch ply (and other sheet materials). Sheets are roughly 1500x1500mm but they will cut them into smaller pieces for a nominal charge.       Delivery or collection.
   * [[http://hpclaser.co.uk]]
   * [[http://www.hindleys.com]]
   * [[http://www.mindsetsonline.co.uk/ | Mindsets Online ]] sell some laserable boards including [[http://www.mindsetsonline.co.uk/Catalogue/ProductDetail/birch-ply-4mm-laserable-?productID=4b0b994c-38ea-45d9-af81-9a135c48d962&catalogueLevelItemID=00000000-0000-0000-0000-000000000000 | birch ply ]]
-
+ 
 FIXME: Please add more links to good suppliers here.
 
 Some [[laser_cutter_risk_assessment|materials risk assessments]] for different materials are available.

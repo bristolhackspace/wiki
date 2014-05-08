@@ -2,32 +2,30 @@
 
 {{:reprap_printing.jpg|}}
 
-A RepRap 3D printer was donated to the hackspace by Steve Bullock in June 2012. It has been fixed and fettled and is finally producing good prints, though could still do with some tidying up (Nov 2012). A set of Sanguinololu electronics and PCB heated bed were donated by Doug. A new hot end was donated by the Thames Valley RepRap user group.
+A RepRap 3D printer was donated to the hackspace by Steve Bullock in June 2012. It has been fixed and fettled and is finally producing good prints. 
 
-The model we have is a Prusa Mendel.  The RepRap is an open-source project started at the University of Bath by Dr Adrian Bowyer.  The designs for all components and circuit diagrams are available free to use under various open source licenses.  The main entry for the Prusa Mendel is [[http://reprap.org/wiki/Prusa]]
+Thanks go to those who have donated parts to get it going: a set of Sanguinololu electronics were donated by Doug, but unfortunately we could not get them working. We did use the stepper drivers, though. Matt V. donated an Arduino Mega 2560, Ian S. donated a set of RAMPS electronics. A heated bed PCB and SD card reader were donated by RepRapPro. A Reifsnyder Mk IV hot end was donated by the Thames Valley RepRap user group.
 
-===== Capabilities of the Hackspace printer =====
+RepRap is an open-source project started at the University of Bath by Dr Adrian Bowyer. The model we have is a Prusa Mendel. The designs for all components and circuit diagrams are available free to use under various open source licenses.  The main entry for the Prusa Mendel is [[http://reprap.org/wiki/Prusa]]
 
-Materials: PLA
+===== Hackspace printer capabilities =====
 
-FIXME: Bed size?
+**Materials:** PLA only. Please do not use ABS/PVA/HDPE/other random filament, as it may block the extruder. \\
+**Bed size:** 200mm x 200mm x 100mm (XYZ) \\
+**Filament size:** 3mm \\
+**Nozzle diameter:** 0.4mm
 
 ===== How to use it =====
 
-DO NOT USE IT WITHOUT AN INDUCTION!
+**DO NOT USE IT WITHOUT AN INDUCTION!**
 
-Contact Ian S or Russell D to ask about inductions.
+Contact **Ian S** or **Russell D** for an induction.
 
-You can produce files for 3D printing from many 3D programs. OpenSCAD, Blender, Google Sketchup are all opensource programs you can use, or more commercial ones such as 3DMax, SolidWorks.
-The file type of choice is a .stl file, or stereolithography. It is a basic 3D model, with just the triangles and faces that make up a solid object.
+You can produce files for 3D printing from many 3D programs. OpenSCAD, Blender, Sketchup are all open source programs you can use, or more commercial ones such as 3DMax, SolidWorks, AutoCad. The file type of choice is a .stl file, or stereolithography. It is a basic 3D model, with just the triangles and faces that make up a solid object. There are two parts to the printing process; taking the stl file to produce a sliced gcode file, and then sending that file to the printer. We use a program called Slic3r to slice the stl, and Pronterface (part of Printrun) to communicate with the printer.
 
-There are two parts to the printing process; taking the stl file to produce a sliced gcode file, and then sending that file to the printer.
+The Bristol Hackspace 3D printer training manual is available on [[http://goo.gl/JMmNS1|Google Docs]].
 
-We use a program called Slic3r to slice the stl, and Pronterface (part of Printrun) to communicate with the printer.
-
-Training courses in the use of the software packages will be set up in due course - for now, just ask an expert for assistance if you need it.
-
-==== Inducted people ====
+===== Inducted Hackspace members =====
 
 ^ Name ^ Inducted Date ^ Status ^
 | Ian S | n/a | Expert |
@@ -44,34 +42,48 @@ Training courses in the use of the software packages will be set up in due cours
 | Harry S | 2014-03-25 | Inducted by IS |
 | Chris W | 2014-03-25 | Inducted by IS |
 | Donny | 2014-03-25 | Inducted by IS |
-==== Information for Users ====
+| Arthur A | 2014-05-07 | Inducted by IS |
+| John W | 2014-05-07 | Inducted by IS |
+| Jonathan T | 2014-05-07 | Inducted by IS |
 
-=== Sourcing Filament ===
+===== Proposed costs of use =====
 
-FIXME: Recommend suppliers.
+From the members meeting here: http://bristol.hackspace.org.uk/wiki/doku.php?id=botlab:openmeeting_20130603 \\
+and here: http://bristol.hackspace.org.uk/wiki/doku.php?id=botlab:openmeeting_20130916
 
-=== Build History ===
+Standard process - induction + pay-per-use \\
+Payment for inductions: £10 towards hackspace \\
+Machine time (for people using their own filament): £1/hr \\
+Machine time plus using hackspace filament (donated or purchased): £5/hr
 
-{{::reprap01.jpg?200|}}
+===== Sourcing Filament =====
+
+Recommended supplier: [[http://www.faberdashery.co.uk/|Faberdashery]] are a local company, and sell consistent, high quality PLA, if a little on the expensive side. 
+
+There is a long list of suppliers on the [[http://reprap.org/wiki/Printing_Material_Suppliers|reprap.org wiki here]]. Caveat emptor.
+
+===== Build History =====
+
+{{:reprap01.jpg?200 |}}
+
+The RepRap, pretty much as we received it.
 
 == Replacement parts ==
 
 {{:reprap02.jpg?200 |}}
 
-When we received it, the X carriage end parts had all ripped out so they won't clamp onto the X rails properly.
-Ian printed a set of parts in white PLA, which have been fitted. At the same time, LM8UU bearings were fitted to each axis.
-When we experimented with printing ABS plastic, the x-carriage got a bit hot and deformed, and now needs reprinting, preferably in ABS.
+When we received it, the X carriage end parts had all ripped out so they won't clamp onto the X rails properly. Ian printed a set of parts in white PLA, which have been fitted. At the same time, LM8UU bearings were fitted to each axis. When we experimented with printing ABS plastic, the x-carriage got a bit hot and deformed, and has since been reprinted.
 
 == Heated Bed ==
 
 {{:reprap03.jpg?200 |}}
 
-The reprap was supplied with an aluminium heated bed, which power resistors fitted to the bottom of. It had no temperature controller. We persisted with this for some time, but ultimately it took too long to heat up and gave very inconsistent results. It was replaced by PCB heated bed, which is much more capable of higher temperatures. 
+The reprap was supplied with an aluminium heated bed, which power resistors fitted to the bottom. It had no temperature controller, just used a laptop PSU running flat out. We persisted with this for some time, but ultimately it took too long to heat up and gave very inconsistent results. It was replaced by PCB heated bed, donated by [[http://reprappro.com/|RepRapPro]], which is controlled by the RAMPS electronics, and is much more capable of higher temperatures. 
 
 == Hot End ==
 
-{{:reprap04.jpg?200 |}} The original hot end worked, just, but caused problems by transferring too much heat into the extruder. Ian has lent a Mendel-parts v9 hot end and extruder to the hackspace for the time being, though a Reifsnyder Mk IV hot has been donated by the Thames Valley RepRap User Group http://tvrrug.org.uk and merely awaits a suitable extruder.
+{{:reprap04.jpg?200 |}} The original hot end worked, just, but caused problems by transferring too much heat into the extruder. A Reifsnyder Mk IV hot end has been donated by the [[http://tvrrug.org.uk/|Thames Valley RepRap User Group]] and has been fitted.
 
 == Electronics ==
 
-The reprap originally came with mendel-parts generation 6 electronics. This has no heated bed controller, and has been replaced by an Arduino Mega 2560 and RAMPS motor shield (lent by Ian), while we try and get the Sanguinololu electronics donated by Doug working.
+The reprap originally came with mendel-parts generation 6 electronics. This has no heated bed controller, and has been replaced by an Arduino Mega 2560 and RAMPS motor shield (donated by Ian). We couldn't get the Sanguinololu electronics donated by Doug to work. An SD card reader, donated by [[http://reprappro.com/|RepRapPro]], has also been fitted. 

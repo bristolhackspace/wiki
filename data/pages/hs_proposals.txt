@@ -3,7 +3,6 @@
 
 ===== Aims and Objectives =====
 
-
 Hackspace Proposals are a mechanism to put forward project ideas that would impact on the Hackspace and its members - e.g. infrastructure changes, additional tools and equipment, furnishing the space.
 
 Proposals should:
@@ -13,9 +12,16 @@ Proposals should:
   * include a budget if applicable with a funding model (e.g. self-funded, part-funded, match-funded)
   * have one principal proposer
 
-For proposals to be deemed successful they must achieve support from:
+===== How to make a proposal =====
+  - Post to the members' mailing list covering all the details above
+  - Ideally also write up the proposal on the wiki. **The easiest way to create a new proposal page is to edit this page, duplicate and modify one of the lines in the table, save the page, click on the red link you have just created and click on the 'Create' link next to the search box at the top of the page.**
+    - Fill in the template form below
+    - Create a wiki page in the 'hsproposals' namespace containing the completed form and named in the format "yyyy-mm-dd-proposal-name"
+    - Add a link and info in the table below.
+
+For proposals to be deemed successful they must achieve support (usually by email reply on the mailing list) from:
   * five Hackspace members (exclusive of the initial proposer)
-  * three members of the committee (not counted amongst the above), to be discussed at the next quarterly committee meeting
+  * three members of the committee (not counted amongst the above)
 
 ===== Funding =====
 
@@ -34,13 +40,6 @@ If you have paid for goods or services on behalf of the Hackspace, you should re
 
 #TODO: fill in this section
 
-===== How to make a proposal =====
-
-  - Fill in the template form below
-  - Post to the members mailing list
-  - Create a wiki page in the 'hsproposals' namespace containing the completed form and named in the format "yyyy-mm-dd-proposal-name"
-  - Add a link and info in the table below.
-  - **The easiest way to create a new proposal page is to edit this page, duplicate and modify one of the lines in the table, save the page, click on the red link you have just created and click on the 'Create' link next to the search box at the top of the page.**
 
 
 ===== Existing Proposals =====

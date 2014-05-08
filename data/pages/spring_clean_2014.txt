@@ -15,4 +15,4 @@
 
   * floor paint
   * wood for shelving
-  * big boxes for 1/2/3 week donation system
+  * big boxes for [[3boxsystem|1/2/3 week donation system]]

@@ -1,0 +1,8 @@
+=== A system for handling donations ===
+
+Any stuff in these boxes are free to take and use.
+
+  * new stuff goes in 'fresh!'
+  * 1 week later fresh becomes 'stale'
+  * 1 week later 'stale' becomes 'tip' and will be taken to the tip/dumped.
+

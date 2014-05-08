@@ -24,7 +24,8 @@ For extra points, specifications of the thing (what size of work it can do, etc)
 |[[hp-designjet-500|HP DesignJet 500]]|YES|Nic Marshall|G11 (main room)|
 |[[roland-dpx-3300|Flatbed Plotter]]|YES|Hackspace (maintained by John Honniball)|G11 (main room)|
 |[[uv-exposer|UV exposer]]|YES|Hackspace|G11 (main room)|
-|[[reprap|RepRap + Kinect]]|YES|Hackspace (maintained by Ian Stratford / Russell Dicken)|G11 (main room)|
+|[[reprap|RepRap 3D Printer]]|YES|Hackspace (maintained by Ian Stratford / Russell Dicken)|G11 (main room)|
+|[[kinect|Microsoft Kinect]]|no|Arthur? (maintained by Ian S / Russell D / Arthur)|G11 (main room)|
 |[[magnifier-lamp|Magnifier Lamp]]|no|Hackspace|G11 (main room)|
 |[[irc-mac|IRC Mac]]|no|Hackspace (maintained by Barney Livingstone)|G11 (main room)|
 |[[pc|Hackspace PC]]|no|Hackspace|G11 (main room)|
@@ -32,7 +33,7 @@ For extra points, specifications of the thing (what size of work it can do, etc)
 |[[hot-air-gun|Hot air gun]]|no|Hackspace|G11 (main room)|
 |[[sig-gens|Signal Generators]]|no|Hackspace|G11 (main room)|
 |[[bubble-etch|Bubble Etch Tank]]|YES|Hackspace|G11 (main room)|
-|[[reflow-oven|Solder Reflow Oven]]|no|Ian Stratford|G11 (main room)|
+|[[reflow-oven|Solder Reflow Oven]]|no|Hackspace (maintained by Ian Stratford)|G11 (main room)|
 |[[multimeters|Multimeters]]|no|Hackspace|G11 (main room)|
 |[[label-printer|Label printer]]|no|Hackspace|G11 (main room)|
 |[[psus|Power Supplies]]|no|Hackspace|G11 (main room)|
